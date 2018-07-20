@@ -3,9 +3,23 @@ h1, h2, h3, h4, h5, h6, .site-title, .site-nav {
   font-family: "Alegreya Sans", sans-serif;
 }
 
+.wrapper {
+  padding-top: 0.25rem;
+}
+
+.site-subtitle {
+  font-size: smaller;
+  float: left;
+  margin-bottom: -1.3em;
+  color: #828282;
+  font-style: italic;
+  padding-left: 2px;
+}
+
 .site-title {
   letter-spacing: initial;
   text-transform: capitalize;
+  clear: left;
 }
 
 .site-title,
