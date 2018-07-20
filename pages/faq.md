@@ -23,4 +23,4 @@ homeschooling/unschooling?](/vom-fi-gata-peste-50-de-ani)
 * [De ce mint copiii?](/minciuna)
 
 Dacă nu ați găsit întrebarea sau răspunsul pe care l-ați căutat, scrieți-ne la
-[educatie@pentru.md](mailto:educatie@pentru.md).
+[info@homeschooling.md](mailto:info@homeschooling.md).

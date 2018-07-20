@@ -156,6 +156,6 @@ real]({% post_url 2018-04-06-homeschooling-legal-in-republica-moldova %})).
 ## Notă despre completări și modificări
 
 Dacă cunoașteți alte acte legislative relevante, [scrieți-ne la adresa
-educatie@pentru.md](mailto:educatie@pentru.md).
+info@homeschooling.md](mailto:info@homeschooling.md).
 
 <a href="/законодательство" lang="ru" class="translation-link">Русская версия… →</a>

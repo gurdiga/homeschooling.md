@@ -196,4 +196,4 @@ Ungaria – legal. In 2008 erau circa 7400 homeschooleri.
 ### Notă
 
 Ca întotdeauna, dacă aveți informații mai recente sau mai exacte, vă rugăm să ne scrieți la
-[educatie@pentru.md](mailto:educatie@pentru.md).
+[info@homeschooling.md](mailto:info@homeschooling.md).

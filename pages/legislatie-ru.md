@@ -122,6 +122,6 @@ hide_in_nav: true
 ## Примечание
 
 Если вы знаете о других соответствующих законах, пожалуйста напишите нам на
-[educatie@pentru.md](mailto:educatie@pentru.md).
+[info@homeschooling.md](mailto:info@homeschooling.md).
 
 <a href="/legislatie" lang="ro" class="translation-link">Varianta română… →</a>
