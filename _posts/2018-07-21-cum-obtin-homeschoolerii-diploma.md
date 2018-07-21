@@ -56,6 +56,10 @@ piața de muncă, și de diplomele de studii se aude tot mai rar, sau deloc.
 
 Cum v-a funcționa piața de muncă peste încă 10–20 de ani? — E greu de prezis,
 dar tendința e clar una în care diplomele vor avea o importanță tot mai mică, și
-poate este cazul să ne gîndim în schimb: _Cum să ajut copilul meu să-și găsească
-lucrul care îi place să-l facă într-atît de bine, încît să vrea cineva să-l
-plătească pentru asta?_
+poate este cazul să ne gîndim în schimb:
+
+> Cum să ajut copilul meu să-și găsească lucrul care îi place să-l facă într-atît
+de bine, încît să vrea cineva să-l plătească pentru asta?
+
+Ce are plăcerea cu munca? Din experiența mea, cu cît mai mult îți place să faci
+un lucru, cu atît mai bine o să-l faci.
