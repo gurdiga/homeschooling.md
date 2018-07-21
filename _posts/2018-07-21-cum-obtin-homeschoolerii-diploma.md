@@ -8,7 +8,9 @@ excerpt_separator: <!-- excerpt -->
 
 O altă întrebare care o auzim frecvent la [întrunirile din fiecare
 miercuri](https://www.facebook.com/events/173617086816852/)
-este: _Dacă facem homeschooling, cum obținem diplomă de studii?_
+este:
+
+> Dacă facem homeschooling, cum obținem diplomă de studii?
 
 Să începem cu începutul: pentru ce au oamenii nevoie de diplome de fapt?
 <!-- excerpt --> — În general, oamenii vor să obțină o diplomă cu idea că asta le va
