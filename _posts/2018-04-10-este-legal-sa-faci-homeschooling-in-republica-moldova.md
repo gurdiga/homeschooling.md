@@ -26,4 +26,4 @@ de către părinţi, cu luarea în considerare a opiniei copilului.”
 a înscrie propriul copil în una din numeroasele școli private online din Europa,
 SUA, sau Rusia.
 
-Pentru mai multe informații vedeți pagina [Legislație](/legislatie).
+Pentru mai multe informații vedeți pagina [Legislație]({% link pages/legislatie.md %}).

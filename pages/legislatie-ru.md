@@ -124,4 +124,5 @@ hide_in_nav: true
 Если вы знаете о других соответствующих законах, пожалуйста напишите нам на
 [info@homeschooling.md](mailto:info@homeschooling.md).
 
-<a href="/legislatie" lang="ro" class="translation-link">Varianta română… →</a>
+<a href="{% link pages/legislatie.md %}" lang="ro"
+class="translation-link">Varianta română… →</a>

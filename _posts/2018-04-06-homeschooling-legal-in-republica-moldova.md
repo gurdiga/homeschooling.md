@@ -25,7 +25,7 @@ esența conceptului de _homeschooling_.
 Autoritățile școlii au considerat că e ilegal să-ți retragi copiii din școală,
 și au sesizat poliția, care la rîndul lor a sesizat procuratura Ștefan Vodă,
 învinuind părinții în baza [articolului
-63](/legislatie#codul-contraven%C8%9Bional-cod-nr-218-din--24102008), alineatul
+63]({% link pages/legislatie.md %}#codul-contraven%C8%9Bional-cod-nr-218-din--24102008), alineatul
 (1) al Codului Contravențional.
 
 După aproximativ o lună, pe parcursul căreia au avut loc vizita acasă

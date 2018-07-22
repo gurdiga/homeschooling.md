@@ -21,7 +21,7 @@ description: O listă de resurse despre educația alternativă.
     • [cartepedia](http://www.edituratrei.ro/carte/john-holt-cum-invata-copiii/2852/)]
   * На русском: «Залог детских успехов»
     \[[отзыв](http://ps.1september.ru/article.php?ID=200205002)
-    • [PDF]({{"assets/books/John-Holt-How-Children-Learn-Russian.pdf" | relative_url }})
+    • [PDF]({% link assets/books/John-Holt-How-Children-Learn-Russian.pdf %})
     • [ozon.ru](https://www.ozon.ru/context/detail/id/2314792/)
     • [meshok.net](https://meshok.net/item/7570465)]
 * [Teach Your Own](https://www.goodreads.com/book/show/573002)
