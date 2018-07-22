@@ -21,6 +21,7 @@ h1, h2, h3, h4, h5, h6, .site-title, .site-nav {
   letter-spacing: initial;
   text-transform: capitalize;
   clear: left;
+  font-weight: 900;
 }
 
 .site-title,
@@ -56,6 +57,11 @@ blockquote {
 
 h2.post-list-heading {
   margin-top: 1.5em;
+}
+
+.post-list h3+.post-meta {
+  display: block;
+  margin-bottom: .5em;
 }
 
 #markdown-toc {
