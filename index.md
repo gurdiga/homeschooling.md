@@ -14,7 +14,7 @@ individual, care ține cont de necesitățile particulare ale copilului.
 [„Legislatie”]({% link pages/legislatie.md %}) pentru detalii.
 
 Cele mai cunoscute forme de educație alternativă sint „homeschooling” și
-„unschooling”, care se bazează pe invățarea naturală și liberă, în forma de
+„unschooling”, care se bazează pe învățarea naturală și liberă, în forma de
 joacă și explorare activă, respectînd personalitatea și necesitățile copilului.
 
 Daca sunteți în căutare de răspunsuri, atunci bine ați venit pe pagina noastră:
