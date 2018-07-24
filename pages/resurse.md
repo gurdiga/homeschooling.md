@@ -135,6 +135,17 @@ Alte cărți tematice de această autoare găsiți [pe pagina de la GoodReads](h
   • [Kindle](https://archive.org/download/FreedomNotLicence-A.S.Neill/freedom-neill.mobi)
   ]
 
+### Andrey Maksimov (Андрей Максимов)
+
+* «Дети как зеркало. Как подружиться с собственным ребенком, меняясь самому»
+  \[[Labirint.ru: рецензии и отзывы](https://www.labirint.ru/reviews/goods/544607/)
+  • [Librarius.md](http://librarius.md/ru/book/deti-kak-zerkalo-kak-podruzhitisya-s-sobstvennym-rebenkom-menyayasi-samomu-468424)
+  • [akonit.net](http://akonit.net/322943-deti-kak-zerkalo.-kak-podruzhitsya-s-sobstvennim-rebenkom%2C-menyayas-samomu)
+  ]
+
+[amaximov.ru](http://amaximov.ru/)
+• [Wikipedia](https://ru.wikipedia.org/wiki/Максимов,_Андрей_Маркович)
+
 ## Link-uri utile
 
 ### Organizații
