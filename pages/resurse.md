@@ -9,6 +9,17 @@ description: O listă de resurse despre educația alternativă.
 * Cuprins
 {:toc}
 
+
+## Școli online
+
+* [Home Life Academy](http://www.homelifeacademy.com/) — Școală care oferă
+posibilitatea înregistrării la distanță, chiar și a copiilor din Moldova. Oferă
+consultanță părinților și copiilor, programe de studii și sfaturi practice.
+Eliberează certificat de înmatriculare.
+* [«ЦОДИВ» - Центр Обучения Детей и Взрослых](https://codiv.ru/) — это школа,
+которая успешно совмещает очно-заочное, заочное (с применением дистанционных
+образовательных технологий) и дополнительное образование детей и взрослых.
+
 ## Cărți
 
 ### John Holt
@@ -174,13 +185,6 @@ Alte cărți tematice de această autoare găsiți [pe pagina de la GoodReads](h
 [podcast](http://livingjoyfully.ca/podcast-2/), și prezentări tematice.
 * [Amy Childs](http://amychilds.com/) — Mamă unschooler, consultant, autor de
 articole, și podcast tematic.
-
-### Școli online
-
-* [Home Life Academy](http://www.homelifeacademy.com/) — Școală care oferă
-posibilitatea înregistrării la distanță, chiar și a copiilor din Moldova. Oferă
-consultanță părinților și copiilor, programe de studii și sfaturi practice.
-Eliberează certificat de înmatriculare.
 
 ### Articole
 
