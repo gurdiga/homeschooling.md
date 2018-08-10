@@ -20,6 +20,18 @@ Eliberează certificat de înmatriculare.
 которая успешно совмещает очно-заочное, заочное (с применением дистанционных
 образовательных технологий) и дополнительное образование детей и взрослых.
 
+
+## Organizații
+
+* [Home School Legal Defense Association (HSLDA)](http://www.hslda.org/)
+— Organizație internațională care oferă suport juridic pentru familiile care
+fac, sau vor să facă homeschooling.
+* [Asociatia Home Scooling Romania](http://www.homeschooling.ro/)
+* [Covenant Home](http://www.covenanthome.com/)
+* [The HomeSchool Channel](http://homeschool.crosswalk.com/)
+* [National Home Education Research Institute](http://www.nheri.org/)
+
+
 ## Video
 
 * [Обратная связь. Семейное образование: как защитить ребенка от конвейера
@@ -163,15 +175,6 @@ Alte cărți tematice de această autoare găsiți [pe pagina de la GoodReads](h
 • [Wikipedia](https://ru.wikipedia.org/wiki/Максимов,_Андрей_Маркович)
 
 ## Link-uri utile
-
-### Organizații
-
-* [Home School Legal Defense Association (HSLDA)](http://www.hslda.org/)
-— Organizație internațională care oferă suport legal pentru homeschooleri.
-* [Asociatia Home Scooling Romania](http://www.homeschooling.ro/)
-* [Covenant Home](http://www.covenanthome.com/)
-* [The HomeSchool Channel](http://homeschool.crosswalk.com/)
-* [National Home Education Research Institute](http://www.nheri.org/)
 
 ### Informații și sfaturi practice
 
