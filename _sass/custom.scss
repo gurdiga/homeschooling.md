@@ -20,8 +20,13 @@ h1, h2, h3, h4, h5, h6, .site-title, .site-nav {
 .site-title {
   letter-spacing: initial;
   text-transform: capitalize;
-  clear: left;
+  text-decoration: none;
   font-weight: 900;
+  line-height: 0.8;
+  clear: left;
+  margin-top: 19px;
+  margin-bottom: 7px;
+  width: 180px; /* So that it wraps */
 }
 
 .site-title,
