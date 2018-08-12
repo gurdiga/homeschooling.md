@@ -9,6 +9,7 @@ description: Întrebări frecvente despre educatie alternativă
 
 * [Cum socializează copii educați în familie?]({% link
 pages/aliases/socializare.md %})
+* [Dacă încep să fac homeschooling, ce mă fac dacă copilul n-o să vrea să învețe?]({% link pages/aliases/ce-sa-fac-daca-copilul-nu-vrea-sa-invete.md %})
 * [Ce înseamnă educație alternativă (în familie, la domiciliu, individuală,
 homeschooling, unschooling)?]({% link pages/aliases/educatie-alternativa.md %})
 * [Este societatea din Moldova pregatita pentru homeschooling/unschooling?]({%
