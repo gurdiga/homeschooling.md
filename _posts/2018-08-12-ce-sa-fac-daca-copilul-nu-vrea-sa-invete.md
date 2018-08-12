@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Dacă încep să fac homeschooling, ce mă fac dacă copilul n-o să vrea să învețe?
+title: Dacă încep să fac homeschooling, ce să fac dacă copilul n-o să vrea să învețe?
 date: 2018-08-12 16:56 +0300
 author: Vlad GURDIGA
 ---
