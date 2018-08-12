@@ -129,6 +129,7 @@ pentru că o cred mai bună pentru ei ca părinți, și pentru copiii lor.
 E clar că sunt mult mai multe întrebări și nuanțe în decizia de a face
 homeschooling, și n-ași putea să le acopăr pe toate într-un articol. De fapt
 [există cărți întregi pentru asta]({% link pages/resurse.md %}#cărți), și
-probabil nici el nu pot să răspundă toate întrebările. De aceea facem [întruniri
-cu părinții](https://www.facebook.com/events/456561301467486/) care încearcă să
-afle răspunsuri la ele, și treptat publicăm răspunsuri și aici pe blog.
+probabil nici ele nu pot să răspundă toate întrebările. De aceea facem
+[întruniri cu părinții](https://www.facebook.com/events/456561301467486/) care
+încearcă să afle răspunsuri la ele, și treptat publicăm răspunsuri și aici pe
+blog.
