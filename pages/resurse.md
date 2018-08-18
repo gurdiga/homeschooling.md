@@ -16,10 +16,18 @@ description: O listă de resurse despre educația alternativă.
 posibilitatea înregistrării la distanță, chiar și a copiilor din Moldova. Oferă
 consultanță părinților și copiilor, programe de studii și sfaturi practice.
 Eliberează certificat de înmatriculare.
-* [«ЦОДИВ» - Центр Обучения Детей и Взрослых](https://codiv.ru/) — это школа,
+* [«ЦОДИВ» — Центр Обучения Детей и Взрослых](https://codiv.ru/) — «это школа,
 которая успешно совмещает очно-заочное, заочное (с применением дистанционных
 образовательных технологий) и дополнительное образование детей и взрослых.
-
+* [Школа InternetUrok.ru](https://interneturok.ru/about-us/o-proekte) — «это
+коллекция уроков по основным предметам школьной программы, постоянно пополняемая
+и свободная от рекламы. Уроки состоят из видео, конспектов, тестов и тренажёров.
+Сейчас на сайте собраны все уроки естественно-научного цикла для 1–11 классов
+и приблизительно половина уроков по гуманитарным дисциплинам.»
+* [Центр Поддержки Семейного Образования (ЦПСО)](https://www.hss.center/) —
+«помогает семьям, выбравшим альтернативный путь получения среднего образования
+для своих детей, чувствовать себя свободно, спокойно и уверенно, и не
+волноваться о прикреплении к школе и прохождении ежегодных аттестаций.»
 
 ## Organizații
 
@@ -35,7 +43,19 @@ fac, sau vor să facă homeschooling.
 ## Video
 
 * [Обратная связь. Семейное образование: как защитить ребенка от конвейера
-и «уравниловки»](https://www.youtube.com/watch?v=z4PoSUehP0s)
+и «уравниловки»](https://www.youtube.com/watch?v=z4PoSUehP0s) — Ирина Шамолина,
+руководитель академической программы поддержки семейного образования
+«Классические беседы», член оргкомитета Международной конференции по семейному
+образованию в эфире программы «Обратная связь» расскажет:
+
+  * Почему она решила продвигать семейное образование в массы, чем её не
+  устраивает стандартное образование?
+  * Каждая ли мама может быть хорошим учителем для своего ребенка?
+  * Как правильно самостоятельно организовать учебный процесс?
+  * Может ли ребенок, которого родители забрали из школы и перевели на семейное
+  образование, получить аттестат и  сдать ЕГЭ?  Не превратится ли жизнь
+  родителей, примеривших на себя роль учителя, в кошмар?
+
 
 ## Cărți
 
@@ -147,13 +167,18 @@ Praise and Other Bribes](https://www.goodreads.com/book/show/541132)
 \[[free download](http://livingjoyfully.ca/what-is-unschooling/)] — Introducere
 în unschooling (în engleză).
 
-Alte cărți tematice de această autoare găsiți [pe pagina de la GoodReads](https://www.goodreads.com/author/show/5807562.Pam_Laricchia).
+Alte cărți tematice de această autoare găsiți [pe pagina de la
+GoodReads](https://www.goodreads.com/author/show/5807562.Pam_Laricchia).
 
 ### Sandra Dodd
 
-* [Big Book of Unschooling](https://www.goodreads.com/book/show/7202546-sandra-dodd-s-big-book-of-unschooling)
+* [Big Book of Unschooling](https://www.goodreads.com/book/show/7202546)
+  \[[online](http://sandradodd.com/)
+  • [Amazon](https://www.amazon.com/dp/0557181550/)
+  ]
 
-Alte cărți tematice de această autoare găsiți [pe pagina de la GoodReads](https://www.goodreads.com/author/show/869719.Sandra_Dodd).
+Alte cărți tematice de această autoare găsiți [pe pagina de la
+GoodReads](https://www.goodreads.com/author/show/869719.Sandra_Dodd).
 
 ### A. S. Neill
 
