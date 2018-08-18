@@ -191,7 +191,8 @@ GoodReads](https://www.goodreads.com/author/show/869719.Sandra_Dodd).
 ### Andrey Maksimov (Андрей Максимов)
 
 * «Дети как зеркало. Как подружиться с собственным ребенком, меняясь самому»
-  \[[Labirint.ru: рецензии и отзывы](https://www.labirint.ru/reviews/goods/544607/)
+  \[[recenzie]({% link _posts/2018-07-28-recenzie-carte-дети-как-зеркало.md %})
+  • [Labirint.ru: отзывы](https://www.labirint.ru/reviews/goods/544607/)
   • [Librarius.md](http://librarius.md/ru/book/deti-kak-zerkalo-kak-podruzhitisya-s-sobstvennym-rebenkom-menyayasi-samomu-468424)
   • [akonit.net](http://akonit.net/322943-deti-kak-zerkalo.-kak-podruzhitsya-s-sobstvennim-rebenkom%2C-menyayas-samomu)
   ]
