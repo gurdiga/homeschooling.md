@@ -31,21 +31,6 @@ La moment legislația RM are cîteva mențiuni despre forme alternative de educa
 > pe egalitatea lor în drepturi şi pe dreptul şi îndatorirea părinţilor de
 > a asigura creşterea, educaţia şi instruirea copiilor.”
 
-## Codul Educației (cod Nr. 152 din 17.07.2014)
-
-[Codul Educației](http://lex.justice.md/md/355156/) a RM menționează în
-articolul 138 „Drepturile şi obligaţiile părinţilor”, în alineatul (1) „Părinţii
-sau tutorii au dreptul”, la litera d) următoarele:
-
-> „să instruiască  în familie copilul, asigurîndu-i posibilitatea de a obţine
-> studiile corespunzătoare unui anumit nivel de învăţămînt;”
-
-și, în alineatul (2) „Părinţii sau tutorii sînt obligaţi”, litera b) se spune:
-
-> „să asigure educaţia copilului în familie şi să-i creeze condiţii adecvate
-> pentru studii, dezvoltare a  aptitudinilor, activitate extraşcolară şi de
-> autoinstruire.”
-
 ## Codul Familiei (cod Nr. 1316 din  26.10.2000)
 
 [Codul Familiei](http://lex.justice.md/md/286119/) menționează în articolul 60
@@ -159,4 +144,4 @@ Dacă cunoașteți alte acte legislative relevante, [scrieți-ne la adresa
 info@homeschooling.md](mailto:info@homeschooling.md).
 
 <a href="{% link pages/legislatie-ru.md %}" lang="ru"
-class="translation-link">Русская версия… →</a>
+Codul Educațieiclass="translation-link">Русская версия… →</a>
