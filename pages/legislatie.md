@@ -20,7 +20,7 @@ La moment legislația RM are cîteva mențiuni despre forme alternative de educa
 > prin învăţămîntul liceal şi prin cel profesional, prin învăţămîntul superior,
 > precum şi prin alte forme de instruire şi de perfecţionare.”
 
-și, la alineatul (9) as aceluiași articol:
+și, la alineatul (9) al aceluiași articol:
 
 > „Dreptul prioritar de a alege sfera de instruire a copiilor revine
 > părinţilor.”
