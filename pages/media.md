@@ -8,13 +8,14 @@ description: Apariții publice în mass-media
 
 Apariții publice în mass-media:
 
+* [Masa rotundă de la Tîrgul Serviciilor Educaționale, 30 august 2018](https://www.facebook.com/TargulServiciilorEducationale/videos/701602023535358)
 * Interviurile la emisiunea „Matinal” de la Radio Sputnik:
-  * [Diana CHICU, 23 August 2018](https://www.facebook.com/radiosputnikmoldova/videos/812307215767066/?t=484)
-  * [Natalia BIVOL, 24 August 2018](https://www.facebook.com/radiosputnikmoldova/videos/660583810994063/?t=335)
-  * [Vlad GURDIGA, 28 August 2018](https://www.facebook.com/radiosputnikmoldova/videos/703098156719454/?t=555)
-* [Interviu la Radio Chișinău, 16 mai
+  * [Diana CHICU, 23 august 2018](https://www.facebook.com/radiosputnikmoldova/videos/812307215767066/?t=484)
+  * [Natalia BIVOL, 24 august 2018](https://www.facebook.com/radiosputnikmoldova/videos/660583810994063/?t=335)
+  * [Vlad GURDIGA, 28 august 2018](https://www.facebook.com/radiosputnikmoldova/videos/703098156719454/?t=555)
+* [Interviu la Radio Chișinău, 16 mai 2018
 2018](https://www.facebook.com/homeschoolingmoldova/posts/406732656469624)
-* [Interviu la Ecology.md, 24 mai
+* [Interviu la Ecology.md, 24 mai 2018
 2018](https://www.facebook.com/homeschoolingmoldova/posts/395241287618761)
-* [Interviu la Știrile CTC & Domashnii, 2 iulie
+* [Interviu la Știrile CTC & Domashnii, 2 iulie 2018
 2018](https://www.facebook.com/homeschoolingmoldova/posts/420074498468773)
