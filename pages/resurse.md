@@ -217,8 +217,10 @@ GoodReads](https://www.goodreads.com/author/show/869719.Sandra_Dodd).
 [articole](http://livingjoyfully.ca/blog/),
 [cărți](https://www.goodreads.com/author/show/5807562.Pam_Laricchia),
 [podcast](http://livingjoyfully.ca/podcast-2/), și prezentări tematice.
-* [Amy Childs](http://amychilds.com/) — Mamă unschooler, consultant, autor de
+* [Amy Childs](http://amychilds.com) — Mamă unschooler, consultant, autor de
 articole, și podcast tematic.
+* [Joyce Fetteroll](https://www.joyfullyrejoycing.com) — Mamă unschooler, autor,
+artist.
 
 ### Articole
 
