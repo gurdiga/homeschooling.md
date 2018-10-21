@@ -200,6 +200,13 @@ GoodReads](https://www.goodreads.com/author/show/869719.Sandra_Dodd).
 [amaximov.ru](http://amaximov.ru/)
 • [Wikipedia](https://ru.wikipedia.org/wiki/Максимов,_Андрей_Маркович)
 
+### Teresa Graham Brett
+
+* [Parenting for Social Change](https://www.goodreads.com/book/show/10504971)
+  \[[website](https://www.parentingforsocialchange.com)
+  • [Facebook](https://www.facebook.com/parenting.for.social.change.book/)
+  ]
+
 ## Link-uri utile
 
 ### Informații și sfaturi practice
