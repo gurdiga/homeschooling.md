@@ -17,6 +17,17 @@ h1, h2, h3, h4, h5, h6, .site-title, .site-nav {
   text-transform: capitalize;
 }
 
+$logo_width: 70px;
+
+.site-logo {
+  width: $logo_width;
+  position: absolute;
+}
+
+.site-title-container {
+  margin-left: $logo_width;
+}
+
 .site-title {
   letter-spacing: initial;
   text-transform: capitalize;
