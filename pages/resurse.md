@@ -221,6 +221,10 @@ GoodReads](https://www.goodreads.com/author/show/869719.Sandra_Dodd).
 articole, și podcast tematic.
 * [Joyce Fetteroll](https://www.joyfullyrejoycing.com) — Mamă unschooler, autor,
 artist.
+* Colecția „Recommended Recent Books on Homeschooling” din cadrul proiectului
+„Learning in Freedom”:
+  * [Homeschooling Resource Guides](http://learninfreedom.org/hsguides.html)
+  * [Current and Choice Books](http://learninfreedom.org/recommended_books.html)
 
 ### Articole
 
