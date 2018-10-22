@@ -6,7 +6,13 @@ order: 4
 description: Apariții publice în mass-media
 ---
 
-Apariții publice în mass-media:
+### Canalul nostru de YouTube
+
+<script src="https://apis.google.com/js/platform.js"></script>
+<div class="g-ytsubscribe" data-channelId="UCcIugPKlMqRdiBr13PJmuGA" data-layout="full" data-count="default">
+</div>
+
+### Apariții publice în mass-media
 
 * [Masa rotundă de la Tîrgul Serviciilor Educaționale, 30 august 2018](https://www.facebook.com/TargulServiciilorEducationale/videos/701602023535358)
 * Interviurile la emisiunea „Matinal” de la Radio Sputnik:
