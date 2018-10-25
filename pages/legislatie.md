@@ -9,23 +9,18 @@ description: Mențiuni ale legislația RM cu privire la educația alternativă
 * Cuprins
 {:toc}
 
-La moment legislația RM are cîteva mențiuni despre forme alternative de educație:
+La moment legislația RM are cîteva mențiuni despre forme alternative de
+educație, dar nu menționează express acest drept:
 
 ## Constituția
 
 [Constituția](http://lex.justice.md/md/311496/) menționează în articolul 35
-„Dreptul la învăţătură”, alineatul (1):
-
-> „Dreptul la învăţătură este asigurat prin învăţămîntul general obligatoriu,
-> prin învăţămîntul liceal şi prin cel profesional, prin învăţămîntul superior,
-> precum şi prin alte forme de instruire şi de perfecţionare.”
-
-și, la alineatul (9) al aceluiași articol:
+„Dreptul la învăţătură”, alineatul (9) al aceluiași articol:
 
 > „Dreptul prioritar de a alege sfera de instruire a copiilor revine
 > părinţilor.”
 
-și, în articolul 45 „Familia”, alineatul (2):
+și, în articolul 48 „Familia”, alineatul (2):
 
 > „Familia se întemeiază pe căsătoria liber consimţită între bărbat şi femeie,
 > pe egalitatea lor în drepturi şi pe dreptul şi îndatorirea părinţilor de
