@@ -33,12 +33,14 @@ educație, dar nu menționează express acest drept:
 în alineatul (1) se spune:
 
 > „Părinţii au dreptul şi sînt obligaţi să-şi educe copiii conform propriilor
-> convingeri, indiferent de faptul dacă locuiesc împreună sau separat.”
+> convingeri, […].”
 
 Mai departe, la alineatul (3), a doua propoziție spune:
 
-> „Instituţia de învăţămînt şi forma de instruire sînt alese de către părinţi,
-> cu luarea în considerare a opiniei copilului.”
+> „Părinţii sînt obligaţi să asigure frecventarea de către copil a şcolii pînă
+> la sfîrşitul anului de învăţămînt în care acesta atinge vîrsta de 16 ani.
+> Instituţia de învăţămînt şi forma de instruire sînt alese de către părinţi, cu
+> luarea în considerare a opiniei copilului.”
 
 ## Pacte și convenții internaționale
 
