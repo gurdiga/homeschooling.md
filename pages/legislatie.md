@@ -54,8 +54,9 @@ Conform alineatului (2) din articolul 4 al
 > fundamentale ale omului la care Republica Moldova este parte şi legile ei
 > interne, prioritate au reglementările internaţionale.”
 
-Deci, aceste documente internaționale au putere de lege în RM, și mai mult decît
-atît, ele au prioritate asupra legilor RM.
+Deci, cu toate că nu pot fi folosite ca bază într-un proces de judecată, aceste
+documente internaționale au putere de lege în RM, și mai mult decît atît, ele au
+prioritate asupra legilor RM.
 
 Enumerăm aici cîteva care au legătură cu subiectul educației:
 
