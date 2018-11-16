@@ -26,6 +26,23 @@ educație, dar nu menționează express acest drept:
 > pe egalitatea lor în drepturi şi pe dreptul şi îndatorirea părinţilor de
 > a asigura creşterea, educaţia şi instruirea copiilor.”
 
+## Codul Educației
+
+[Codul Educației](http://lex.justice.md/md/355156/), menționează în alineatul
+(2) al articolului 2 „Cadrul juridic al educaţiei”:
+
+> Raporturile juridice din sfera educaţiei se reglementează şi prin următoarele
+> tratate internaţionale: Declaraţia Universală a Drepturilor Omului, Carta
+> Naţiunilor Unite, Convenţia europeană pentru apărarea drepturilor omului şi
+> a libertăţilor fundamentale, Carta Socială Europeană, Convenţia ONU cu privire
+> la drepturile copilului, Convenţia-cadru pentru protecţia minorităţilor
+> naţionale, Convenţia UNESCO privind lupta împotriva discriminării în domeniul
+> învăţămîntului, Convenţia ONU privind drepturile persoanelor cu dizabilităţi,
+> Convenţia internaţională privind eliminarea tuturor formelor de discriminare
+> rasială, Convenţia ONU privind eliminarea tuturor formelor de discriminare
+> faţă de femei, Declaraţia de la Bologna, precum şi prin alte tratate
+> internaţionale la care Republica Moldova este parte.
+
 ## Codul Familiei (cod Nr. 1316 din  26.10.2000)
 
 [Codul Familiei](http://lex.justice.md/md/286119/) menționează în articolul 60
@@ -60,17 +77,17 @@ prioritate asupra legilor RM.
 
 Enumerăm aici cîteva care au legătură cu subiectul educației:
 
-### Convenția pentru apărarea drepturilor omului
+### Convenția pentru apărarea drepturilor omului și a libertăţilor fundamentale
 
 La 24.07.1997 RM [a aderat](http://lex.justice.md/md/307753/) la [Convenția
-pentru apărarea drepturilor omului](http://lex.justice.md/md/285802/), și
-Primului Protocol adițional al acestei convenții menționează în articolul
-2 „Dreptul la instruire”:
+pentru apărarea drepturilor omului și a libertăţilor
+fundamentale](http://lex.justice.md/md/285802/), și Primului Protocol adițional
+al acestei convenții menționează în articolul 2 „Dreptul la instruire”:
 
-> „Statul, în exercitarea funcţiilor pe care şi le va asuma în domeniul
+> Statul, în exercitarea funcţiilor pe care şi le va asuma în domeniul
 > educaţiei şi al învăţămîntului, va respecta dreptul părinţilor de a asigura
 > această educaţie şi acest învăţămînt conform convingerilor lor religioase şi
-> filozofice.”
+> filozofice.
 
 ### Declarația Universală a Drepturilor Omului
 
