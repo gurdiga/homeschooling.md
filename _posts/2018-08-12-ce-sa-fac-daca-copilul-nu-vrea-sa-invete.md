@@ -93,7 +93,7 @@ umană tinde să și le îndeplinească, și de aceea este neglijabil riscul ca 
 — Bine, _domnule filosof_, dar eu văd că copilul meu nu e prea interesat de
 lecțiile de la școală. Cum explicați asta?
 
-— Mmm… lecții de la școală… O să încerc să explic printr‑o copmparație. Cam la
+— Mmm… lecții de la școală… O să încerc să explic printr‑o comparație. Cam la
 toți ne place o supă bună, cu verdeață, poate cu fasole, cartofi, poate cu
 cărniță, cu legume, și alte bunătăți, nici rece nici fierbinte, numai bună de
 sorbit! E bună pentru că are toate ingredientele celea sănătoase și utile pentru

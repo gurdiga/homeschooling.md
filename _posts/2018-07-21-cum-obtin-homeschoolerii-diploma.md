@@ -38,7 +38,7 @@ proiecte de voluntariat:
 scaunul, biroul, noptiera, sau orice altceva.
 * Dacă vreau să mă fac programator, pot să construiesc de sine stătător un site
 e-commerce, sau o rețea socială, care ar puta demonstra ce pot face mai mult ca
-orice altă dimplomă.
+orice altă diplomă.
 * Dacă vreau să învăț chimie, dans, sau engleză, pot merge al un cerc unde să
 învăț și bazele, și să practic și să dezvolt ce știu deja.
 
