@@ -8,7 +8,7 @@ description: Întrebări frecvente despre homeschooling
 ---
 
 * [Cum fac homeschooling dacă nu am studii pedagogice?]({%
-  link _posts/2018-12-03-cum-fac-homeschooling-daca-nu-am-studii-pedagogice.md %})
+  link pages/aliases/studii-pedagogice.md %})
 * [Cum socializează copii educați în familie?]({% link
 pages/aliases/socializare.md %})
 * [Dacă încep să fac homeschooling, ce mă fac dacă copilul n-o să vrea să învețe?]({% link pages/aliases/ce-sa-fac-daca-copilul-nu-vrea-sa-invete.md %})
