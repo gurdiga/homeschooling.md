@@ -5,6 +5,10 @@
 layout: home
 ---
 
+**Homeschooling**, sau **Educația în Familie**, este un model de educație care
+se bazează pe interesele copilului, astfel dezvoltînd prioritar punctele lui
+forte.
+
 Fiecare copil asimilează cunoștințele în ritmul și maniera proprie, de aceea
 unii părinți preferă să aleagă alte forme de educație, după un program
 individual, care ține cont de necesitățile particulare ale copilului.
