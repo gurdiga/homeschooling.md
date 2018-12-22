@@ -1,1 +1,1 @@
-Site cu informații despre practicarea metodelor alternative de educație în Republica Moldova.
+Site cu informații despre homeschooling în Republica Moldova.
