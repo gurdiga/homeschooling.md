@@ -3,6 +3,15 @@ h1, h2, h3, h4, h5, h6, .site-title, .site-nav {
   font-family: "Alegreya Sans", sans-serif;
 }
 
+.site-nav {
+  .page-link {
+    margin-right: 0 !important; /* override */
+  }
+
+  .separator-bullet {
+    margin: 0 1px;
+  }
+}
 .wrapper {
   padding-top: 0.25rem;
 }
