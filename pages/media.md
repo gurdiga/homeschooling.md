@@ -15,8 +15,8 @@ description: Apariții publice în mass-media
 ### Apariții publice în mass-media
 
 * [Moldova 1, emisiunea „Miezul Zilei”, 21 decembrie 2018](https://www.facebook.com/MIEZULZILEIM1/videos/907402372795965/)
-* [Publika, 21 Decembrie 2018](https://www.publika.md/vor-sa-renunte-la-curriculum-scolar-traditional-un-grup-de-mamici-din-tara-vor-home-schooling-pentru-copiii-lor_3029203.html)
-* [Prime, 21 Decembrie 2018](https://www.prime.md/ro/homeschooling-noua-tendinta-in-materie-de-invatamant-tot-mai-multi-moldoveni-vor-sa-si-educe-copiii_84225.html)
+* [Publika, 21 decembrie 2018](https://www.publika.md/vor-sa-renunte-la-curriculum-scolar-traditional-un-grup-de-mamici-din-tara-vor-home-schooling-pentru-copiii-lor_3029203.html)
+* [Prime, 21 decembrie 2018](https://www.prime.md/ro/homeschooling-noua-tendinta-in-materie-de-invatamant-tot-mai-multi-moldoveni-vor-sa-si-educe-copiii_84225.html)
 * [Masa rotundă de la Tîrgul Serviciilor Educaționale, 30 august 2018](https://www.facebook.com/TargulServiciilorEducationale/videos/701602023535358)
 * Interviurile la emisiunea „Matinal” de la Radio Sputnik:
   * [Diana CHICU, 23 august 2018](https://www.facebook.com/radiosputnikmoldova/videos/812307215767066/?t=484)
