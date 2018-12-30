@@ -29,13 +29,14 @@
           <a class="page-link" href="https://forum.homeschooling.md/">Forum</a>
           {%- for path in page_paths -%}
             {%- assign my_page = site.pages | where: "path", path | first -%}
+            {%- assign title = my_page.nav_title | default: my_page.title -%}
 
-            {%- if my_page.title -%}
+            {%- if title -%}
               {%- unless my_page.hide_in_nav -%}
                 {%- unless path == page_paths.first -%}
                   <span class="separator-bullet"> • </span>
                 {%- endunless -%}
-                <a class="page-link" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
+                <a class="page-link" href="{{ my_page.url | relative_url }}">{{ title | escape }}</a>
               {%- endunless -%}
             {%- endif -%}
           {% endfor -%}
