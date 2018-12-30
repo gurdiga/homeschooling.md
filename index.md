@@ -25,4 +25,4 @@ Vă puteți alătura comunității de homeschooleri
 [pe Viber](https://invite.viber.com/?g=fm7x8DL5jEjhWVWgffqWOg5ENXo0VFMh).
 
 <a href="{% link pages/ru.md %}" lang="ru" class="translation-link">Русская
-версия… →</a>
+версия</a>

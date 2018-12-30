@@ -93,9 +93,9 @@ blockquote {
 .translation-link {
   font-weight: bold;
 
-  // &::after {
-  //   content: "… →";
-  // }
+  &::after {
+    content: "… →";
+  }
 }
 
 .post-content h2,

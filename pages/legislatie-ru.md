@@ -114,4 +114,4 @@ hide_in_nav: true
 [info@homeschooling.md](mailto:info@homeschooling.md).
 
 <a href="{% link pages/legislatie.md %}" lang="ro"
-class="translation-link">Varianta română… →</a>
+class="translation-link">Varianta română</a>

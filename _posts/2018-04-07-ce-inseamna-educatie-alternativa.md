@@ -35,4 +35,4 @@ familii! Experimentați! Alegerea vă aparține!
 * Procesul educațional se desfășoară oriunde doresc părinții sau copii.
 * Copiii au libertate să participe la activități sportive, culturale, creative, s.a.
 
-<a href="{% post_url 2018-04-18-что-такое-альтернативное-образование %}" lang="ru" class="translation-link">Русская версия… →</a>
+<a href="{% post_url 2018-04-18-что-такое-альтернативное-образование %}" lang="ru" class="translation-link">Русская версия</a>

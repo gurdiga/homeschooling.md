@@ -50,6 +50,6 @@ _Для более подробной информации звоните <a hre
 > Если не мы, то кто? Если не сейчас, то когда?
 
 <a href="{% link pages/club.md %}" lang="ro" class="translation-link
-bottom">Varianta română… →</a>
+bottom">Varianta română</a>
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2719.1156156167062!2d28.805751315610888!3d47.03796207915109!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x3137bf2c2d9f11fb!2sDulcinella!5e0!3m2!1sen!2s!4v1546175258398" width="100%" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>
