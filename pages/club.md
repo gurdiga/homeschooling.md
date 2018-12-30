@@ -38,7 +38,7 @@ Va asteptam cu drag! 🙂
 
 _Pentru mai multe informații sunați la <a href="tel:+37379172760">079172760</a> — Diana._
 
-> Dacă nu noi, atunci cine? Dacă nu acum, atunci cînd??
+> Dacă nu noi, atunci cine? Dacă nu acum, atunci cînd?
 
 <a href="{% link pages/club-ru.md %}" lang="ru" class="translation-link
 bottom">Русская версия… →</a>
