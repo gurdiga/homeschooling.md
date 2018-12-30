@@ -33,9 +33,6 @@
 
             {%- if title -%}
               {%- unless my_page.hide_in_nav -%}
-                {%- unless path == page_paths.first -%}
-                  <span class="separator-bullet"> • </span>
-                {%- endunless -%}
                 <a class="page-link" href="{{ my_page.url | relative_url }}">{{ title | escape }}</a>
               {%- endunless -%}
             {%- endif -%}

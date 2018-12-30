@@ -8,17 +8,20 @@ h1, h2, h3, h4, h5, h6, .site-title, .site-nav {
     margin-right: 0 !important; /* override */
     font-weight: normal;
 
+    &:not(:first-child)::before {
+      content: "•";
+      margin: 0 4px;
+      display: inline-block; /* prevent underline on hover */
+    }
+
     &[href="/club"]::after {
       content: "❤";
       color: red;
+      font-size: 0.75em;
       vertical-align: super;
       margin-left: -3px;
       margin-right: -5px;
     }
-  }
-
-  .separator-bullet {
-    margin: 0 2px;
   }
 }
 .wrapper {
