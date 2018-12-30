@@ -7,23 +7,22 @@ layout: home
 
 **Homeschooling**, sau **Educația în Familie**, este un model de educație care
 se petrece nu pe băncile școlii, ci în sînul familiei, și care se bazează pe
-interesele copilului și dezvoltă prioritar punctele lui forte.
-
-Fiecare copil asimilează cunoștințele în ritmul și maniera proprie, de aceea
-unii părinți preferă să aleagă alte forme de educație, după un program
-individual, care ține cont de necesitățile particulare ale copilului.
+interesele copilului și dezvoltă prioritar punctele lui forte. Pentru că fiecare
+copil asimilează cunoștințele în ritmul și maniera proprie, unii părinți aleg
+alte forme de educație, după un program individual, care ține cont de
+necesitățile particulare ale copilului.
 
 În Republica Moldova alegerea formei de educație al propriului copil este dreptul
-și obligația părinților, inclusiv și educația in familie; vedeți pagina
-[„Legislatie”]({% link pages/legislatie.md %}) pentru detalii.
+și obligația părinților, inclusiv și educația in familie. Daca sunteți în
+căutare de răspunsuri, atunci bine ați venit pe pagina noastră: aici veți găsi
+[articole]({% link pages/blog.md %}),
+[informații despre legislație]({% link pages/ru.md %}),
+[materiale relevante]({% link pages/resurse.md %}),
+[evenimente](https://www.facebook.com/pg/homeschoolingmoldova/events/), ș.a.
 
-Cele mai cunoscute forme de educație alternativă sint „homeschooling” și
-„unschooling”, care se bazează pe învățarea naturală și liberă, în forma de
-joacă și explorare activă, respectînd personalitatea și necesitățile copilului.
-
-Daca sunteți în căutare de răspunsuri, atunci bine ați venit pe pagina noastră:
-aici veți găsi articole, informații despre legislație, literatură utilă,
-evenimente, ș.a.
+Vă puteți alătura comunității de homeschooleri
+[pe Facebook](https://www.facebook.com/groups/HomeschoolingMoldova/) și
+[pe Viber](https://invite.viber.com/?g=fm7x8DL5jEjhWVWgffqWOg5ENXo0VFMh).
 
 <a href="{% link pages/ru.md %}" lang="ru" class="translation-link">Русская
 версия… →</a>
