@@ -4,6 +4,8 @@ h1, h2, h3, h4, h5, h6, .site-title, .site-nav {
 }
 
 .site-nav {
+  line-height: normal;
+
   .page-link {
     margin-right: 0 !important; /* override */
 
@@ -11,6 +13,7 @@ h1, h2, h3, h4, h5, h6, .site-title, .site-nav {
       content: "•";
       margin: 0 4px;
       display: inline-block; /* prevent underline on hover */
+      font-weight: normal;
     }
 
     &[href="/club"]::after {
@@ -21,6 +24,10 @@ h1, h2, h3, h4, h5, h6, .site-title, .site-nav {
       margin-left: -3px;
       margin-right: -5px;
     }
+  }
+
+  .trigger {
+    margin-top: -0.75rem;
   }
 }
 .wrapper {
