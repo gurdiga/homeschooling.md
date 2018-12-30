@@ -207,6 +207,13 @@ GoodReads](https://www.goodreads.com/author/show/869719.Sandra_Dodd).
   • [Facebook](https://www.facebook.com/parenting.for.social.change.book/)
   ]
 
+### Ольга Юрковская
+
+* «Хоумскулинг. Образование для жизни (аудиокнига)»
+  \[[ЛитРес](https://www.litres.ru/olga-urkovskaya/houmskuling-obrazovanie-dlya-zhizni-28740774/)
+  • [ozon.ru](https://www.ozon.ru/context/detail/id/143822253/)
+  • [download gratuit din grupul nostru de Viber](https://invite.viber.com/?g=fm7x8DL5jEjhWVWgffqWOg5ENXo0VFMh)]
+
 ## Link-uri utile
 
 ### Informații și sfaturi practice
