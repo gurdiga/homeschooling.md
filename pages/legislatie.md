@@ -159,4 +159,4 @@ Dacă cunoașteți alte acte legislative relevante, [scrieți-ne la adresa
 info@homeschooling.md](mailto:info@homeschooling.md).
 
 <a href="{% link pages/legislatie-ru.md %}" lang="ru"
-Codul Educațieiclass="translation-link">Русская версия</a>
+Codul Educațieiclass="translation-link">Версия на русском языке</a>

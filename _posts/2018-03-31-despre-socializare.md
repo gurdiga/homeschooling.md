@@ -48,4 +48,4 @@ Prin homeschooling părinții iși reasumă această responsabiliate fundamental
 pentru binele psihic și fizic al propriilor copii și, astefel pentru întreaga
 societate.
 
-<a href="{% post_url 2018-04-14-а-как-же-социализация %}" lang="ru" class="translation-link">Русская версия</a>
+<a href="{% post_url 2018-04-14-а-как-же-социализация %}" lang="ru" class="translation-link">Версия на русском языке</a>
