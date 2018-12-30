@@ -34,6 +34,9 @@ $(SERVER_PID_FILE):
 .tmp:
 	mkdir .tmp
 
+purge:
+	rm $(SERVER_PID_FILE)
+
 post: bundler
 	read -p "Article title: " title && bundle exec jekyll post "$$title"
 
