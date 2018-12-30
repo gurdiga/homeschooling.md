@@ -6,7 +6,7 @@ order: 2
 description: Ce înseamnă „homeschooling” sau „educație în familie”?
 ---
 
-### Ce înseamnă „homeschooling” sau „educație în familie”?
+### Ce înseamnă „Homeschooling” sau „Educație în Familie”?
 
 Aici încercăm să găsim o definiție a conceptului de homeschooling, în cuvinte
 simple, care să fie ușor de înțeles și pentru cineva care îl aude prima dată.
