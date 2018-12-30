@@ -6,6 +6,14 @@ h1, h2, h3, h4, h5, h6, .site-title, .site-nav {
 .site-nav {
   .page-link {
     margin-right: 0 !important; /* override */
+
+    &[href="/club"]::after {
+      content: "❤";
+      color: red;
+      vertical-align: super;
+      margin-left: -3px;
+      margin-right: -5px;
+    }
   }
 
   .separator-bullet {
@@ -67,15 +75,23 @@ blockquote {
 .post-content {
   position: relative; /* to allow the absolute positioning of the .translation-link */
 
-  & .translation-link {
+  .translation-link {
     position: absolute;
     top: -3rem;
     right: 0;
+
+    &.bottom {
+      position: static;
+    }
   }
 }
 
 .translation-link {
   font-weight: bold;
+
+  // &::after {
+  //   content: "… →";
+  // }
 }
 
 .post-content h2,
@@ -115,4 +131,12 @@ h2.post-list-heading {
 .post-list h3 {
   margin-bottom: 0;
   line-height: 1;
+}
+
+address {
+  margin: 1em;
+}
+
+iframe[src*="google.com/maps"] {
+  margin: 1em 0;
 }
