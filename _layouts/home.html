@@ -9,7 +9,7 @@ layout: default
 
   {{ content }}
 
-  <h2 class="post-list-heading">Articole recente</h2>
+  <h2 class="post-list-heading">Articole recente pe Blog</h2>
   {%- assign most_recent_posts = site.posts | slice: 0, 5 -%}
   {% include post_list.html posts=most_recent_posts %}
 
