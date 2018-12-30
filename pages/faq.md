@@ -34,6 +34,7 @@ pages/aliases/pasi.md %})
 * [Cum obțin homeschoolerii diplomă?]({% link pages/aliases/diploma.md %})
 * [Cum creștem copiii de sine stătători?]({% link pages/aliases/cum.md %})
 * [De ce mint copiii?]({% link pages/aliases/minciuna.md %})
+* [Cum vor ține copiii homeschooleri piept societății cînd vor ieși din familie?]({% link pages/aliases/lupii.md %})
 
 
 Dacă nu ați găsit întrebarea sau răspunsul pe care l-ați căutat, scrieți-ne la
