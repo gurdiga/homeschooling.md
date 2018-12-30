@@ -6,6 +6,7 @@ h1, h2, h3, h4, h5, h6, .site-title, .site-nav {
 .site-nav {
   .page-link {
     margin-right: 0 !important; /* override */
+    font-weight: normal;
 
     &[href="/club"]::after {
       content: "❤";
@@ -17,7 +18,7 @@ h1, h2, h3, h4, h5, h6, .site-title, .site-nav {
   }
 
   .separator-bullet {
-    margin: 0 1px;
+    margin: 0 2px;
   }
 }
 .wrapper {
