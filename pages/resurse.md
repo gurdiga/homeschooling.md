@@ -212,7 +212,7 @@ GoodReads](https://www.goodreads.com/author/show/869719.Sandra_Dodd).
 * «Хоумскулинг. Образование для жизни (аудиокнига)»
   \[[ЛитРес](https://www.litres.ru/olga-urkovskaya/houmskuling-obrazovanie-dlya-zhizni-28740774/)
   • [ozon.ru](https://www.ozon.ru/context/detail/id/143822253/)
-  • [download gratuit din grupul nostru de Viber](https://invite.viber.com/?g=fm7x8DL5jEjhWVWgffqWOg5ENXo0VFMh)]
+  • [download gratuit](https://www.facebook.com/HomeschoolingMoldova/posts/535002020309353)]
 
 ## Link-uri utile
 

@@ -22,7 +22,7 @@ căutare de răspunsuri, atunci bine ați venit pe pagina noastră: aici veți g
 
 Vă puteți alătura comunității de homeschooleri
 [pe Facebook](https://www.facebook.com/groups/HomeschoolingMoldova/) și
-[pe Viber](https://invite.viber.com/?g=fm7x8DL5jEjhWVWgffqWOg5ENXo0VFMh).
+pe Viber (scrieți mesaj pe Facebook pentru a fi invitat).
 
 <a href="{% link pages/ru.md %}" lang="ru" class="translation-link">Русская
 версия</a>
