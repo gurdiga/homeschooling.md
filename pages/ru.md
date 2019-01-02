@@ -21,6 +21,7 @@ lang: ru
 
 Присоиденяйтесь к сообществу хоумскулеров
 [в Facebookе](https://www.facebook.com/groups/HomeschoolingMoldova/) и
-в Viberе (напишите сообщение в Facebookе чобы получить приглашение).
+в Viberе ([напишите сообщение в Facebookе](https://m.me/HomeschoolingMoldova)
+чобы получить приглашение).
 
 <a href="/" lang="ro" class="translation-link">Varianta în română</a>
