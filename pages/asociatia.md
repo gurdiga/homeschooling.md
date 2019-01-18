@@ -29,3 +29,10 @@ Homeschoolingul ca alternativă educațională pentru copiii log.
     src="{% link assets/statut.pdf %}"
     style="width: 100%; height: 600px;"
     type="application/pdf">
+
+
+## Alte informații
+
+Pentru mai multe informații [scrieți-ne mesaj pe
+Facebook](https://m.me/HomeschoolingMoldova) sau pe email la
+<a href="mailto:info@homeschooling.md">info@homeschooling.md</a>.
