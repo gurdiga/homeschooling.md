@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Definiție
-permalink: definit
-order: 2
+permalink: definitie
 description: Ce înseamnă „homeschooling” sau „educație în familie”?
+hide_in_nav: true
 ---
 
 ### Ce înseamnă „Homeschooling” sau „Educație în Familie”?
