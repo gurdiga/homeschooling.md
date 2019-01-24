@@ -8,7 +8,7 @@ description: >-
   Asociația a fost fondată la 27 iunie 2018 cu scopul de a consolida eforturile
   părinților interesați de promovarea Homeschoolingul în Republica Moldova, și
   pentru a reprezenta interesele familiilor care sunt interesați să practice
-  Homeschoolingul ca alternativă educațională pentru copiii log.
+  Homeschoolingul ca alternativă educațională pentru copiii lor.
 
   Aici puteți vedea Statutul Asociației.
 ---
@@ -21,7 +21,7 @@ description: >-
 Asociația a fost fondată la 27 iunie 2018 cu scopul de a consolida eforturile
 părinților interesați de promovarea Homeschoolingul în Republica Moldova, și
 pentru a reprezenta interesele familiilor care sunt interesați să practice
-Homeschoolingul ca alternativă educațională pentru copiii log.
+Homeschoolingul ca alternativă educațională pentru copiii lor.
 
 ## Statutul Asociației
 
