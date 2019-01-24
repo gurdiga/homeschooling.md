@@ -3,7 +3,7 @@ layout: page
 title: Законодательство
 permalink: законодательство
 order: 2
-description: На данный момент Республика Молдова имеет некоторые упоминания о семейной формы образования.
+description:
 lang: ru
 hide_in_nav: true
 ---

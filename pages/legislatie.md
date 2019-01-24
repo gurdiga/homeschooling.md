@@ -3,7 +3,9 @@ layout: page
 title: Legislație
 permalink: legislatie
 order: 2
-description: Mențiuni ale legislația RM cu privire la educația alternativă
+description: -<
+  Aspecte legale cu privire la Homeschooling practicat în Republica Moldova, și
+  din perspectiva legislației internaționale.
 ---
 
 * Cuprins
