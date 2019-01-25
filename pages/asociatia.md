@@ -25,11 +25,18 @@ Homeschoolingul ca alternativă educațională pentru copiii lor.
 
 ## Statutul Asociației
 
-<embed
+<!--- embed
     src="{% link assets/statut.pdf %}"
     style="width: 100%; height: 600px;"
-    type="application/pdf">
+    type="application/pdf" -->
 
+<iframe
+  src="https://docs.google.com/document/d/1wlx2F3hquZcJU6zwZYszdGhcZCtoMCU34qc5azy6sE8/preview"
+  width="100%"
+  height="600"
+  frameborder="0"
+  style="border:0"
+></iframe>
 
 ## Alte informații
 
