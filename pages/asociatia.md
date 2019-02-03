@@ -23,6 +23,24 @@ părinților interesați de promovarea Homeschoolingul în Republica Moldova, ș
 pentru a reprezenta interesele familiilor care sunt interesați să practice
 Homeschoolingul ca alternativă educațională pentru copiii lor.
 
+## Adresare către părinți
+
+Pentru ca să putem face schimbarea care o vrem, trebuie să ne unim eforturile,
+și trebuie să ne expunem clar ceea ce vrem.
+
+Noi credem că e important ca părinții din RM, alături de alte state civilizate,
+să aibă dreptul legal la homeschooling, dreptul să-și educe copiii în familie,
+așa ca să le poată da tot ce au mai bun.
+
+Dacă credeți la fel, înregistrați-vă ca membri în Asociația Homeschooling
+Moldova. — Cu cît mai mulți suntem mai mulți, cu atît mai bine o să fie auzită
+vocea noastră, și cu atît mai devreme o să putem face schimbarea pe care o vrem.
+
+Scrieți-ne mesaj direct pentru a afla detalii:
+
+* Messenger: [m.me/HomeschoolingMoldova](https://m.me/HomeschoolingMoldova)
+* Email: [info@homeschooling.md](mailto:info@homeschooling.md)
+
 ## Statutul Asociației
 
 <!--- embed
