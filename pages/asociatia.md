@@ -23,6 +23,11 @@ părinților interesați de promovarea Homeschoolingul în Republica Moldova, ș
 pentru a reprezenta interesele familiilor care sunt interesați să practice
 Homeschoolingul ca alternativă educațională pentru copiii lor.
 
+## Cererea de aderare
+
+Puteți descărca [cererea de aderare în format PDF](https://docs.google.com/document/d/1cXfEeAXGOY9L4Etd8-WhSRBkSVOFLxtvxdFilLywcIU/export?format=pdf)
+și luați legătura cu noi pentru a o prezenta.
+
 ## Adresare către părinți
 
 Pentru ca să putem face schimbarea care o vrem, trebuie să ne unim eforturile,
