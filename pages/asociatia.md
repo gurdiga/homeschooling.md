@@ -30,7 +30,7 @@ să aibă dreptul legal la homeschooling, dreptul să-și educe copiii în famil
 așa ca să le poată da tot ce au mai bun.
 
 Dacă credeți la fel, înregistrați-vă ca membri în Asociația Homeschooling
-Moldova. — Cu cît mai suntem mai mulți, cu atît mai bine o să fie auzită
+Moldova. — Cu cît suntem mai mulți, cu atît mai bine o să fie auzită
 vocea noastră, și cu atît mai devreme o să putem face schimbarea pe care o vrem.
 
 Scrieți-ne mesaj direct pentru a afla detalii:
