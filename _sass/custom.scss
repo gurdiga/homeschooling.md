@@ -150,3 +150,7 @@ address {
 iframe[src*="google.com/maps"] {
   margin: 1em 0;
 }
+
+.page-content {
+  flex: 0 1 auto; /* IE11 fix */
+}
