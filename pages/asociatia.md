@@ -74,3 +74,15 @@ Cod IBAN în MDL: MD93EX0000002251772385MD
 ></iframe>
 
 De asemenea, îl puteți [descărca în format PDF](https://docs.google.com/document/d/1wlx2F3hquZcJU6zwZYszdGhcZCtoMCU34qc5azy6sE8/export?format=pdf).
+
+## Demersul către Ministerul Educațieie, 08.02.2019
+
+<iframe
+  src="https://docs.google.com/document/d/1-DMtKibEL64JXMBP7DB234vl4dVLNb16PBivjhW7xz8/preview"
+  width="100%"
+  height="600"
+  frameborder="0"
+  style="border:0"
+></iframe>
+
+[Demersul în format PDF](https://docs.google.com/document/d/1-DMtKibEL64JXMBP7DB234vl4dVLNb16PBivjhW7xz8/preview).
