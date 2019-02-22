@@ -13,7 +13,7 @@ simple, care să fie ușor de înțeles și pentru cineva care îl aude prima da
 
 * „Homeschooling”, sau „Educația în Familie”, este un model de educație care se
   petrece nu pe băncile școlii ci în sînul familiei, și care se bazează pe
-  interesele copilului și dezvoltă prioritar punctele lui forte.
+  interesele copilului și dezvoltă prioritar punctele sale forte.
 * Este educația în valorile și principiile morale, etice, spirituale ale
   părinților.
 * Presupune un program individual, creat în dependența de capacitățile,

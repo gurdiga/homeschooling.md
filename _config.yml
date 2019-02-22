@@ -19,7 +19,7 @@ email: info@homeschooling.md
 description: >- # this means to ignore newlines until "baseurl:"
   Informații despre homeschooling în Republica Moldova.  „Homeschooling”, sau
   „Educația în Familie”, este un model de educație care se bazează pe
-  interesele copilului, astfel dezvoltînd prioritar punctele lui forte.
+  interesele copilului, astfel dezvoltînd prioritar punctele sale forte.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://educatie.pentru.md" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username:
