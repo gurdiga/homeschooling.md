@@ -11,18 +11,45 @@ h1, h2, h3, h4, h5, h6, .site-title, .site-nav {
 
     &:not(:first-child)::before {
       content: "•";
-      margin: 0 4px;
+      margin: 0;
       display: inline-block; /* prevent underline on hover */
       font-weight: normal;
     }
 
-    &[href="/club"]::after {
-      content: "❤";
-      color: red;
-      font-size: 0.75em;
-      vertical-align: super;
-      margin-left: -3px;
-      margin-right: -5px;
+    &[href="/club"] {
+      margin-right: 3px !important;
+
+      &::after {
+        content: "❤";
+        color: red;
+        font-size: 0.75em;
+        vertical-align: super;
+        margin-left: -3px;
+        margin-right: -5px;
+      }
+    }
+
+    &[href="/petitie"] {
+      &:hover {
+        text-decoration: none !important;
+      }
+
+      .text {
+        position: relative;
+
+        &::before {
+          content: "~~~~~~~~~~~~";
+          font-size: 0.6em;
+          font-weight: normal;
+          font-family: serif;
+          color: red;
+          width: 100%;
+          position: absolute;
+          top: 12px;
+          left: -1px;
+          overflow: hidden;
+        }
+      }
     }
   }
 
