@@ -4,6 +4,7 @@ title: Media
 permalink: media
 order: 4
 description: Apariții publice în mass-media
+hide_in_nav: true
 ---
 
 ### Canalul nostru de YouTube
