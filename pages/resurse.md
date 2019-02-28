@@ -2,7 +2,7 @@
 layout: page
 title: Resurse
 permalink: resurse
-order: 3
+order: 7
 description: O listă de resurse despre educația alternativă.
 ---
 

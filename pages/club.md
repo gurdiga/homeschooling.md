@@ -4,7 +4,7 @@ nav_title: Club
 title: Clubul Familiei Homeschooling Moldova
 description: Clubul Familiei Homeschooling Moldova
 permalink: club
-order: 0
+order: 3
 ---
 
 Asociația „Homeschooling Moldova” în colaboarare cu [Proiectul

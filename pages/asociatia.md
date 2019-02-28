@@ -3,7 +3,7 @@ layout: page
 nav_title: Asociația
 title: Asociația Obștească „Homeschooling Moldova”
 permalink: asociatia
-order: 0
+order: 1
 description: >-
   Asociația a fost fondată la 27 iunie 2018 cu scopul de a consolida eforturile
   părinților interesați de promovarea Homeschoolingul în Republica Moldova, și

@@ -3,7 +3,7 @@ layout: page
 title: FAQ
 inpage_title: Întrebări frecvente
 permalink: faq
-order: 5
+order: 6
 description: Întrebări frecvente despre homeschooling
 ---
 

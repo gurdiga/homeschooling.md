@@ -2,7 +2,7 @@
 layout: page
 title: Legislație
 permalink: legislatie
-order: 2
+order: 5
 description: -<
   Aspecte legale cu privire la Homeschooling practicat în Republica Moldova, și
   din perspectiva legislației internaționale.

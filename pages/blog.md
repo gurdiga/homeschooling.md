@@ -2,7 +2,7 @@
 layout: page
 title: Blog
 permalink: blog
-order: 1
+order: 4
 description: Articole despre Homeschooling în Republica Moldova
 ---
 
