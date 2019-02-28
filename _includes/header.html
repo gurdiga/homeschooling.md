@@ -4,10 +4,13 @@
     {%- assign default_paths = site.pages | sort: "order" | map: "path" -%}
     {%- assign page_paths = site.header_pages | default: default_paths -%}
 
-    <img src={% link assets/images/logo.png %} class="site-logo" />
+    <a href="{{ "/" | relative_url }}">
+      <img src={% link assets/images/logo.png %} class="site-logo" />
+    </a>
+
     <div class="site-title-container">
       <span class="site-subtitle">asociația obștească</span>
-      <a class="site-title" rel="author" href="{{ "/" | relative_url }}">
+      <a class="site-title" href="{{ "/" | relative_url }}">
         {{ site.title | escape }}
       </a>
     </div>
