@@ -16,7 +16,7 @@ test: $(SERVER_PID_FILE)
 		&& rm mirror \
 		|| rm -f mirror && exit 1
 
-start: build bundler .tmp
+start: .tmp build bundler
 	@test -e $(SERVER_PID_FILE) \
 		&& echo "$(SERVER_PID_FILE) already exists. The server is probably already running." && exit 1 \
 		|| echo "Starting the server..."
