@@ -1,7 +1,7 @@
 ---
 layout: page
-# title: Media
-# permalink: media
+title: Media
+permalink: media
 order: 4
 description: Apariții publice în mass-media
 ---
