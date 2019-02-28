@@ -4,7 +4,6 @@ title: Семейный Клуб Хоумскулинг Молдова
 description: Семейный Клуб Хоумскулинг Молдова
 permalink: клуб
 hide_in_nav: true
-order: 0
 ---
 
 Асоциация «Homeschooling Moldova» в сотрудничестве с [Проектом

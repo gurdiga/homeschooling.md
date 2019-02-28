@@ -2,7 +2,6 @@
 layout: page
 title: Законодательство
 permalink: законодательство
-order: 2
 description:
 lang: ru
 hide_in_nav: true
