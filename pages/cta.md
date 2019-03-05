@@ -1,6 +1,7 @@
 ---
 layout: page
 permalink: cta
+no_social: true
 ---
 
 <section style="min-height: 100vh" class="cta-page">
