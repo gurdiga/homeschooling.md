@@ -5,7 +5,7 @@ no_social: true
 ---
 
 <section style="min-height: 100vh" class="cta-page">
-    <hr class="spacer" style="margin-top: 3em;"/>
+    <hr class="spacer" style="margin-top: 2em;"/>
 
     <p class="one-liner-copy">Noi credem că copiii noștri au dreptul la
     școlarizare în căldura căminului părintesc.</p>
