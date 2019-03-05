@@ -5,6 +5,7 @@ h1, h2, h3, h4, h5, h6, .site-title, .site-nav {
 
 .site-nav {
   line-height: normal;
+  z-index: 1;
 
   .page-link {
     margin-right: 0 !important; /* override */
