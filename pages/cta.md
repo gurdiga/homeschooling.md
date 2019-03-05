@@ -5,33 +5,26 @@ no_social: true
 ---
 
 <section style="min-height: 100vh" class="cta-page">
-  <article>
-    <header>
-      <hr class="spacer" style="margin-top: 5em;"/>
+    <hr class="spacer" style="margin-top: 5em;"/>
 
-      <p class="one-liner-copy">Noi credem că copiii noștri au dreptul la
-      școlarizare în căldura căminului părintesc.</p>
+    <p class="one-liner-copy">Noi credem că copiii noștri au dreptul la
+    școlarizare în căldura căminului părintesc.</p>
 
-      <a class="cta-button top" href="/petitie">Semnați Petiția</a>
+    <a class="cta-button top" href="/petitie">Semnați Petiția</a>
 
-      <hr class="spacer" style="margin-bottom: 2em;"/>
+    <hr class="spacer" style="margin-bottom: 2em;"/>
 
-      <ul>
-        <li>Așa cum <a href="https://publications.europa.eu/s/kgMm">deja este</a> în multe alte țări civilizate.</li>
-        <li>Așa cum <a href="/legislatie#pacte-și-convenții-internaționale">prescriu tratatele internaționale</a> la care Moldova a aderat.</li>
-        <li>Așa cum e firesc într-o societate umană care pune familia pe primul loc.</li>
-      </ul>
+    <ul>
+      <li>Așa cum <a href="https://publications.europa.eu/s/kgMm">deja este</a> în multe alte țări civilizate.</li>
+      <li>Așa cum <a href="/legislatie#pacte-și-convenții-internaționale">prescriu tratatele internaționale</a> la care Moldova a aderat.</li>
+      <li>Așa cum e firesc într-o societate umană care pune familia pe primul loc.</li>
+    </ul>
 
-      <hr class="spacer" style="margin-top: 2em;"/>
-
-      <p class="blurb">
-        Dacă credeți la fel, alăturați-vă pentru a reuși recunoașterea
-        dreptului de a școlariza copiii în sînul familiei —
-        <a href="/petitie">semnați petiția</a> adresată Ministerului Educației!
-      </p>
-    </header>
-
-  </article>
+    <p class="blurb">
+      Dacă credeți la fel, alăturați-vă pentru a reuși recunoașterea
+      dreptului de a școlariza copiii în sînul familiei —
+      <a href="/petitie">semnați petiția</a> adresată Ministerului Educației!
+    </p>
 </section>
 
 <style>
@@ -63,12 +56,8 @@ no_social: true
   color: white;
 }
 
-.cta-button.top {
-  float: left;
-}
-
 .cta-page ul {
-  margin-right: 1em;
+  margin: 2em 0 0 1em;
 }
 
 .spacer {
@@ -78,12 +67,11 @@ no_social: true
 
 .blurb {
   max-width: 18em;
-  margin-left: 1em;
+  margin: 2em 1em 0 1em;
   background: #eee;
   border-radius: 1em;
   padding: 1em 1.5em;
   color: black;
   font-style: italic;
-  font-size: 1.25em;
 }
 </style>
