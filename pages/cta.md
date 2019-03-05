@@ -3,16 +3,17 @@ layout: page
 permalink: cta
 ---
 
-<section style="min-height: 100vh">
+<section style="min-height: 100vh" class="cta-page">
   <article>
     <header>
       <hr class="spacer" style="margin-top: 5em;"/>
 
-      <a class="cta-button top" href="/petitie">Semnați Petiția</a>
       <p class="one-liner-copy">Noi credem că copiii noștri au dreptul la
       școlarizare în căldura căminului părintesc.</p>
 
-      <hr class="spacer" style="margin-top: 2em;"/>
+      <a class="cta-button top" href="/petitie">Semnați Petiția</a>
+
+      <hr class="spacer" style="margin-bottom: 2em;"/>
 
       <ul>
         <li>Așa cum <a href="https://publications.europa.eu/s/kgMm">deja este</a> în multe alte țări civilizate.</li>
@@ -22,17 +23,27 @@ permalink: cta
 
       <hr class="spacer" style="margin-top: 2em;"/>
 
-      <p class="blurb">Dacă credeți la fel, alăturați-vă pentru a reuși recunoașterea
-      dreptului de a școlariza copiii în sînul familiei — semnați petiția
-      adresată Ministerului Educației!</p>
+      <p class="blurb">
+        Dacă credeți la fel, alăturați-vă pentru a reuși recunoașterea
+        dreptului de a școlariza copiii în sînul familiei —
+        <a href="/petitie">semnați petiția</a> adresată Ministerului Educației!
+      </p>
     </header>
 
   </article>
 </section>
 
 <style>
-section a {
-  color: #2a7ae2 !important;
+.cta-page a {
+  color: #2a7ae2;
+}
+
+.one-liner-copy {
+  font-size: 1.25em;
+  line-height: 1.25;
+  float: left;
+  max-width: 20em;
+  margin-left: 1em;
 }
 
 .cta-button {
@@ -41,9 +52,10 @@ section a {
   padding: 0.5em 1em;
   font-family: 'Alegreya Sans', sans-serif;
   font-size: 1.25em;
-  font-weight: bold;
   border: none;
   border-radius: 0.3em;
+  margin: 0 1em;
+  float: left;
 }
 
 .cta-button:hover {
@@ -51,16 +63,16 @@ section a {
 }
 
 .cta-button.top {
-  float: right;
+  float: left;
 }
 
-.one-liner-copy {
-  font-size: 1.25em;
-  line-height: 1.25;
+.cta-page ul {
+  margin-right: 1em;
 }
 
 .spacer {
   border: none;
+  clear: both;
 }
 
 .blurb {
@@ -68,7 +80,9 @@ section a {
   margin-left: 1em;
   background: #eee;
   border-radius: 1em;
-  padding: 1.5em;
+  padding: 1em 1.5em;
   color: black;
+  font-style: italic;
+  font-size: 1.25em;
 }
 </style>
