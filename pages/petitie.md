@@ -11,7 +11,7 @@ description: >-
 ---
 
 <p class="one-liner">Alăturați-vă celor care merg înspre o societate mai umană,
-bazată pe valorile familiei. Semnați petiția!</p>
+bazată pe valorile familiei. <strong>Semnați petiția!</strong></p>
 
 <style>
 .one-liner {
