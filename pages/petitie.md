@@ -10,6 +10,18 @@ description: >-
   pe marginea acestui subiect.
 ---
 
+<p class="one-liner">Alăturați-vă celor care merg înspre o societate mai umană,
+bazată pe valorile familiei. Semnați petiția!</p>
+
+<style>
+.one-liner {
+  font-size: 1.25em;
+  max-width: 25em;
+  margin: 1em auto;
+  text-align: center;
+}
+</style>
+
 <iframe
   src="https://www.petitieonline.com/emb/224869"
   width="100%"
