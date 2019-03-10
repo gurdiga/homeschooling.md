@@ -9,8 +9,9 @@ no_social: true
 <section class="cta-page">
   <hr class="spacer" style="margin-top: 2em;"/>
 
-  <p class="one-liner-copy">Noi credem că copiii noștri au dreptul la
-  școlarizare în căldura căminului părintesc.</p>
+  <p class="one-liner-copy">Noi credem că familiile noastre au dreptul la
+  școlarizare acasă, ca copiii noștri să învețe în căldura căminului
+  părintesc.</p>
 
   <a class="cta-button top" href="/petitie">Semnați Petiția</a>
 
