@@ -19,6 +19,7 @@ bazată pe valorile familiei. <strong>Semnați petiția!</strong></p>
   max-width: 25em;
   margin: 1em auto;
   text-align: center;
+  line-height: 1.25;
 }
 </style>
 
