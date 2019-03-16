@@ -9,9 +9,7 @@ hide_in_nav: true
 
 ### Canalul nostru de YouTube
 
-<script src="https://apis.google.com/js/platform.js"></script>
-<div class="g-ytsubscribe" data-channelId="UCcIugPKlMqRdiBr13PJmuGA" data-layout="full" data-count="default">
-</div>
+[„Homeschooling Moldova”](https://www.youtube.com/channel/UCcIugPKlMqRdiBr13PJmuGA)
 
 ### Apariții publice în mass-media
 
