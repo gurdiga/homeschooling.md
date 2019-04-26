@@ -12,6 +12,8 @@ description: O listă de resurse despre educația alternativă.
 
 ## Școli online
 
+* [CEREHARD](https://redesignngo.com/cerehard/) — Școală umbrelă la București,
+după modelul International British School, demarată în 2017.
 * [Home Life Academy](http://www.homelifeacademy.com/) — Școală care oferă
 posibilitatea înregistrării la distanță, chiar și a copiilor din Moldova. Oferă
 consultanță părinților și copiilor, programe de studii și sfaturi practice.
