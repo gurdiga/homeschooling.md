@@ -85,4 +85,4 @@ De asemenea, îl puteți [descărca în format PDF](https://docs.google.com/docu
   style="border:0"
 ></iframe>
 
-[Demersul în format PDF](https://docs.google.com/document/d/1-DMtKibEL64JXMBP7DB234vl4dVLNb16PBivjhW7xz8/preview).
+[Demersul în format PDF](https://docs.google.com/document/d/1-DMtKibEL64JXMBP7DB234vl4dVLNb16PBivjhW7xz8/export?format=pdf).
