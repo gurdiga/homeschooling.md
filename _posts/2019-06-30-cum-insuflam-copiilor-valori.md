@@ -15,9 +15,9 @@ cuiva valori cu de-a sila. 🤷🏻‍♂️
 
 Bine, dar atunci cum? 🤔
 
-Sfatul pe care-l dă Meredith Novak [1] mi s-a părut rezonabil: Pur și simplu
-trăiește-ți valorile. Copilul fiind în imediata apropiere, le va absorbi dacă va
-vedea că ele te fac fericit. 🤓
+Sfatul pe care-l dă [Meredith Novak](http://sandradodd.com/meredithnovak/) mi
+s-a părut rezonabil: Pur și simplu trăiește-ți valorile. Copilul fiind în
+imediata apropiere, le va absorbi dacă va vedea că ele te fac fericit. 🤓
 
 Îi poți insufla obișnuința de a mînca sănătos dacă singur faci asta. Îi poți
 inspira o atitudine respectuoasă față de oamenii din jur doar dacă singur faci
@@ -28,5 +28,3 @@ PS: Îmi place această metodă și pentru că are ca efect secundar și verific
 acelor valori pe pielea proprie. Adică s-ar putea întîmpla așa ca unele dintre
 acele valori să le vrem pentru ei dar nu și pentru noi, și asta ar fi un semn de
 întrebare foarte sănătos. 😉
-
-[1] http://sandradodd.com/meredithnovak/
