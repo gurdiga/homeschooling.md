@@ -30,4 +30,6 @@ bazată pe valorile familiei. <strong>Semnați petiția!</strong></p>
   frameborder="0"
 ></iframe>
 
-Publicată la [https://www.petitieonline.com/homeschooling](https://www.petitieonline.com/homeschooling).
+<small>
+[https://petitieonline.com/homeschooling](https://petitieonline.com/homeschooling)
+</small>
