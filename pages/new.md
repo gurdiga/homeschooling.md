@@ -14,7 +14,6 @@ description: >-
 
 <style>
 section.blurb {
-  max-width: 26em;
   margin: 2em 1em;
   background: #eee;
   border-radius: 0 1em;
