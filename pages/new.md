@@ -27,10 +27,8 @@ section.blurb {
 
 section.blurb h2 {
   position: absolute;
-  white-space: nowrap;
   margin: 0 0 0 -30px;
   top: -0.8em;
-  font-size: 40px;
   color: #2a7ae2;
 }
 </style>
