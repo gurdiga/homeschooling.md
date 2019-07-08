@@ -26,9 +26,8 @@ section.blurb {
 }
 
 section.blurb h2 {
-  position: absolute;
-  margin: 0 0 0 -30px;
-  top: -0.8em;
+  margin: 0 0 0.5em 0;
+  line-height: 1;
   color: #2a7ae2;
 }
 </style>
