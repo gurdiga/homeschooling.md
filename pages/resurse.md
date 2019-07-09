@@ -10,7 +10,7 @@ description: O listă de resurse despre educația alternativă.
 {:toc}
 
 
-## Școli online
+## Școli umbrelă
 
 * [CEREHARD](https://redesignngo.com/cerehard/) — Școală umbrelă la București,
 după modelul International British School, demarată în 2017.
