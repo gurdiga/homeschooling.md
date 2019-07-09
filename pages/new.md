@@ -78,8 +78,9 @@ section.blurb h2 {
   <h2>Cum particip în comunitate?</h2>
 
   <p>Semnați <a href="/petitie">petiția</a> adresată Ministerului Educației,
-  înregistrați-vă ca membru în <a href="/asociatia">asociație</a>, și
-  alăturați-vă în grupurile de <a
+  înregistrați-vă ca membru în <a
+  href="/asociatia#aderarea-la-asociație">asociație</a>, și alăturați-vă în
+  grupurile de <a
   href="https://www.facebook.com/groups/HomeschoolingMoldova/">pe Facebook</a>
   și pe Viber.</p>
 </section>
