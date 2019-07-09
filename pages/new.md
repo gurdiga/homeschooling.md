@@ -62,8 +62,9 @@ section.blurb h2 {
   elementară ne spune că dacă nu facem rău nimănui, homeschoolingul nu este
   ilegal. Este o practică <a href="https://publications.europa.eu/s/kgMm"
   target="_blank">acceptată în multe țări</a> și e în continuă <a
-  href="https://en.wikipedia.org/wiki/Homeschooling_international_status_and_statistics">creștere</a>,
-  tocmai pentru că tot mai mulți oameni îi apreciază beneficiile.</p>
+  href="https://en.wikipedia.org/wiki/Homeschooling_international_status_and_statistics"
+  target="_blank" >creștere</a>, tocmai pentru că tot mai mulți oameni îi
+  apreciază beneficiile.</p>
 </section>
 
 <section class="blurb">
