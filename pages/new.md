@@ -13,19 +13,33 @@ description: >-
 ---
 
 <style>
+
+.post-header {
+  display: none;
+}
+
 section.blurb {
-  margin: 2em 1em;
-  background: #eee;
-  border-radius: 0 1em;
-  padding: 1.25em 1.5em 0.5em 1.5em;
-  color: black;
-  overflow: visible;
-  position: relative;
-  float: left;
+  margin: 2em 1em 1em;
+  max-width: 30em;
+}
+
+section.blurb:before {
+  content: "?";
+  position: absolute;
+  right: 1em;
+  margin-top: -0.1em;
+  font-size: 9em;
+  font-weight: bold;
+  opacity: 0.1;
+  line-height: 1;
+}
+
+section.blurb:first-of-type {
+  margin-top: 0;
 }
 
 section.blurb h2 {
-  margin: 0 0 0.5em 0;
+  margin: 0 0 0.25em 0;
   line-height: 1;
   color: #2a7ae2;
 }
@@ -47,8 +61,9 @@ section.blurb h2 {
   Educației</a> încă nu menționează nimic despre homeschooling. Dar rațiunea
   elementară ne spune că dacă nu facem rău nimănui, homeschoolingul nu este
   ilegal. Este o practică <a href="https://publications.europa.eu/s/kgMm"
-  target="_blank">acceptată în multe țări</a> și e în continuă creștere, tocmai
-  pentru că tot mai mulți oameni îi apreciază beneficiile.</p>
+  target="_blank">acceptată în multe țări</a> și e în continuă <a
+  href="https://en.wikipedia.org/wiki/Homeschooling_international_status_and_statistics">creștere</a>,
+  tocmai pentru că tot mai mulți oameni îi apreciază beneficiile.</p>
 </section>
 
 <section class="blurb">
@@ -62,6 +77,7 @@ section.blurb h2 {
 
   <p>Semnați <a href="/petitie">petiția</a> adresată Ministerului Educației,
   înregistrați-vă ca membru în <a href="/asociatia">asociație</a>, și
-  alăturați-vă în grupurile de <a href="/homeschooling.md">pe Facebook</a> și pe
-  Viber.</p>
+  alăturați-vă în grupurile de <a
+  href="https://www.facebook.com/groups/HomeschoolingMoldova/">pe Facebook</a>
+  și pe Viber.</p>
 </section>
