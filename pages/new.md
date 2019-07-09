@@ -21,14 +21,15 @@ description: >-
 section.blurb {
   margin: 2em 1em 1em;
   max-width: 30em;
+  position: relative;
 }
 
-section.blurb:before {
+section.blurb h2:before {
   content: "?";
   position: absolute;
-  right: 1em;
+  right: 0;
   margin-top: -0.1em;
-  font-size: 9em;
+  font-size: 5em;
   font-weight: bold;
   opacity: 0.1;
   line-height: 1;
