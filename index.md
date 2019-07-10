@@ -5,75 +5,86 @@
 layout: page
 ---
 
-<section class="cta-page">
-  <hr class="spacer" style="margin-top: 2em;"/>
-
-  <p class="one-liner-copy">Noi credem că familiile noastre au dreptul la
-  școlarizare acasă, ca copiii noștri să învețe în căldura căminului
-  părintesc.</p>
-
-  <a class="cta-button top" href="/petitie">Semnați Petiția</a>
-
-  <hr class="spacer" style="margin-bottom: 2em;"/>
-
-  <ul>
-    <li>Așa cum <a href="https://publications.europa.eu/s/kgMm">deja este</a> în multe alte țări civilizate.</li>
-    <li>Așa cum <a href="/legislatie#pacte-și-convenții-internaționale">prescriu tratatele internaționale</a> la care Moldova a aderat.</li>
-    <li>Așa cum e firesc într-o societate umană care pune familia pe primul loc.</li>
-  </ul>
-
-  <p class="blurb">
-    Dacă credeți la fel, alăturați-vă pentru a reuși recunoașterea
-    dreptului de a școlariza copiii în sînul familiei —
-    <a href="/petitie">semnați petiția</a> adresată Ministerului Educației!
-  </p>
-</section>
-
 <style>
-.cta-page a {
+.post-header {
+  display: none;
+}
+
+section.blurb {
+  margin: 2em 1em 1em;
+  max-width: 30em;
+  position: relative;
+}
+
+section.blurb h2:before {
+  content: "?";
+  position: absolute;
+  right: 0;
+  margin-top: -0.1em;
+  font-size: 5em;
+  font-weight: bold;
+  opacity: 0.1;
+  line-height: 1;
+  pointer-events: none;
+}
+
+section.blurb:first-of-type {
+  margin-top: 0;
+}
+
+section.blurb h2 {
+  margin: 0 0 0.25em 0;
+  line-height: 1;
   color: #2a7ae2;
 }
-
-.one-liner-copy {
-  font-size: 1.25em;
-  line-height: 1.25;
-  float: left;
-  max-width: 20em;
-  margin-left: 1em;
-}
-
-.cta-button {
-  background-color: #2a7ae2;
-  color: white !important;
-  padding: 0.5em 1em;
-  font-family: 'Alegreya Sans', sans-serif;
-  font-size: 1.25em;
-  border: none;
-  border-radius: 0.3em;
-  margin: 0 1em;
-  float: left;
-}
-
-.cta-button:hover {
-  color: white;
-}
-
-.cta-page ul {
-  margin: 2em 0 0 1em;
-}
-
-.spacer {
-  border: none;
-  clear: both;
-}
-
-.blurb {
-  max-width: 18em;
-  margin: 2em 1em 5em 1em;
-  background: #eee;
-  border-radius: 1em;
-  padding: 1em 1.5em;
-  color: black;
-  font-style: italic;
-}
 </style>
+
+<section class="blurb">
+  <h2>Ce înseamnă homeschooling?</h2>
+
+  <p><dfn>Homeschooling</dfn> înseamnă școlarizare în sînul familiei, folosind
+  mijloace moderne de educație, punînd accentul pe punctele forte și
+  particularitățile copilului.  Un element important în homeschooling este
+  faptul că se cultivă o relație foarte bună între părinte și copil.</p>
+</section>
+
+<section class="blurb">
+  <h2>Homeschooling în Moldova? Da.</h2>
+
+  <p><a href="http://lex.justice.md/md/355156/" target="_blank">Codul
+  Educației</a> încă nu menționează nimic despre homeschooling. Dar rațiunea
+  elementară ne spune că dacă nu facem rău nimănui, homeschoolingul nu este
+  ilegal. Este o practică <a href="https://publications.europa.eu/s/kgMm"
+  target="_blank">acceptată în multe țări</a> și e în continuă <a
+  href="https://en.wikipedia.org/wiki/Homeschooling_international_status_and_statistics"
+  target="_blank" >creștere</a>, tocmai pentru că tot mai mulți oameni îi
+  apreciază beneficiile.</p>
+</section>
+
+<section class="blurb">
+  <h2>Cum facem homeschooling?</h2>
+
+  <p>Curricula și metoda de predare <a href="{% link pages/resurse.md %}">le
+  alege părintele</a> pentru că el cunoaște cel mai bine copilul; dacă e nevoie
+  de certificat, înregistrăm copilul la o <a href="{% link pages/resurse.md
+  %}/#școli-online">școală umbrelă</a>.</p>
+</section>
+
+<section class="blurb">
+  <h2>Cum particip în comunitate?</h2>
+
+  <ul style="margin-left: 1em">
+    <li>Semnați <a href="{% link pages/petitie.md %}">petiția</a> adresată
+    Ministerului Educației.</li>
+
+    <li>Înregistrați-vă ca membru în <a href="{% link pages/asociatia.md
+    %}#aderarea-la-asociație">asociație</a>.</li>
+
+    <li>Alăturați-vă în grupurile de <a
+    href="https://www.facebook.com/groups/HomeschoolingMoldova/">pe Facebook</a>
+    și pe Viber.</li>
+
+    <li>Veniți la întrunirile de la <a href="{% link pages/club.md %}">„Clubul
+    Familiei”</a> pentru a pune întrebări și a discuta cu alți părinți.</li>
+  </ul>
+</section>

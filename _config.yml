@@ -17,9 +17,10 @@ lang: ro
 title: Homeschooling Moldova
 email: info@homeschooling.md
 description: >- # this means to ignore newlines until "baseurl:"
-  Informații despre homeschooling în Republica Moldova.  „Homeschooling”, sau
-  „Educația în Familie”, este un model de educație care se bazează pe
-  interesele copilului, astfel dezvoltînd prioritar punctele sale forte.
+  Ce înseamnă homeschooling? • Homeschooling înseamnă școlarizare în sînul
+  familiei, folosind mijloace moderne de educație, punînd accentul pe punctele
+  forte și particularitățile copilului. Un element important în homeschooling
+  este faptul că se cultivă o relație foarte bună între părinte și copil.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://educatie.pentru.md" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username:
