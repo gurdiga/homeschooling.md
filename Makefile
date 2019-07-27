@@ -49,11 +49,26 @@ post: bundler
 
 bundler: /usr/local/bin/bundle
 /usr/local/bin/bundle:
-	gem install bundler
-	bundle install
+	gem list bundler | grep '^bundler ' || gem install bundler
+	bundle check || bundle install
 
 edit:
 	bundle open minima
 
 open:
 	open http://$(SERVER_IP):$(SERVER_PORT)
+
+fonts: _sass/_fonts.scss
+_sass/_fonts.scss:
+	( \
+		echo https://fonts.googleapis.com/css?family=Alegreya:400,400i,700&subset=cyrillic,latin-ext \
+		echo https://fonts.googleapis.com/css?family=Alegreya+Sans:400,800,900&subset=cyrillic,latin-ext \
+	) | while read url; do \
+		curl -f "$$url" >> $@ \
+	; done
+	mkdir -p assets/fonts
+	grep -o 'https://fonts.gstatic.com.*.ttf' $@ | xargs wget --directory-prefix=assets/fonts/
+	sed -i 's|https://fonts.gstatic.com/.*/|fonts/|' $@
+
+define GFONTS
+endef
