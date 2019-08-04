@@ -84,7 +84,7 @@ section.blurb h2 {
     href="https://www.facebook.com/groups/HomeschoolingMoldova/">pe Facebook</a>
     și pe Viber.</li>
 
-    <li>Veniți la întrunirile de la <a href="{% link pages/club.md %}">„Clubul
-    Familiei”</a> pentru a pune întrebări și a discuta cu alți părinți.</li>
+    <li>Veniți la <a href="{% link pages/club.md %}">„Clubul Familiei”</a>
+    pentru a pune întrebări și a discuta cu alți părinți.</li>
   </ul>
 </section>
