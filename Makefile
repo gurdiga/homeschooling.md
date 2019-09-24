@@ -60,15 +60,15 @@ open:
 
 fonts: _sass/_fonts.scss
 _sass/_fonts.scss:
-	( \
-		echo https://fonts.googleapis.com/css?family=Alegreya:400,400i,700&subset=cyrillic,latin-ext \
-		echo https://fonts.googleapis.com/css?family=Alegreya+Sans:400,800,900&subset=cyrillic,latin-ext \
-	) | while read url; do \
-		curl -f "$$url" >> $@ \
-	; done
+	curl \
+		-H 'User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:69.0) Gecko/20100101 Firefox/69.0' \
+		--fail \
+		'https://fonts.googleapis.com/css?family=Alegreya+Sans|Alegreya:400,400i,700&display=swap&subset=cyrillic,latin-ext' \
+		> $@
+	rm -rf assets/fonts
 	mkdir -p assets/fonts
-	grep -o 'https://fonts.gstatic.com.*.ttf' $@ | xargs wget --directory-prefix=assets/fonts/
-	sed -i 's|https://fonts.gstatic.com/.*/|fonts/|' $@
+	grep -Po 'https://fonts.gstatic.com\S+.woff2' $@ | xargs wget --directory-prefix=assets/fonts/
+	/usr/local/opt/gnu-sed/libexec/gnubin/sed -i 's|https://fonts.gstatic.com/.*/|fonts/|' $@
 
 define GFONTS
 endef
