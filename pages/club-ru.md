@@ -1,28 +1,33 @@
 ---
 layout: page
 title: Семейный Клуб Хоумскулинг Молдова
-description: Семейный Клуб Хоумскулинг Молдова
+description: >- # this means to ignore newlines until "baseurl:"
+  Мы в поисках нового места для встреч! Пока будем встречатся раз в месяц
+  в одной из библиотек.
 permalink: клуб
 hide_in_nav: true
 ---
 
-Асоциация «Homeschooling Moldova» в сотрудничестве с [Проектом
-TRUE.City](https://www.facebook.com/TrueCity.md/) приглашает всех
-заинтересованных родителей в наш долгожданный «Семейный Клуб Хоумскулинг
-Молдова». У нас есть новое помещение:
+<style>
+.announcement {
+  background-color: #f0f0f0;
+  padding: 1em;
+  border-radius: 1em;
+  max-width: 30em;
+  text-align: center;
+  font-weight: bold;
+  margin: 0 auto 2em;
+}
+</style>
 
-<address>
-ул. Каля Ешилор 9, на цокольном этаже магазина
-<a href="https://dulcinella.md">„Dulcinella”</a>
-(карта ниже).
-</address>
+<div class="announcement">
+  <p>⚠️ Мы в поисках нового места для встреч! ⚠️ </p>
 
-Мы только начинаем, поэтому ждём вас с радостью строить вместе планы и проекты
-для наших детей и для нас, родителей кому тема хоумскулинга близка.
+  <p>Пока будем встречатся раз в месяц в одной из библиотек.</p>
+</div>
 
 Ждём мамочек с детьми, уже есть где встречаться. Ждём и детей постарше найти
-здесь для себя друзей. Приходите в удобное для вас время в течение дня, мы
-открыты с 10:00 до 20:00, по этому после работы тоже приходите.
+здесь для себя друзей.
 
 Наши цели:
 
@@ -50,5 +55,3 @@ _Для более подробной информации звоните <a hre
 
 <a href="{% link pages/club.md %}" lang="ro" class="translation-link
 bottom">Varianta în română</a>
-
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2719.1156156167062!2d28.805751315610888!3d47.03796207915109!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x3137bf2c2d9f11fb!2sDulcinella!5e0!3m2!1sen!2s!4v1546175258398" width="100%" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>

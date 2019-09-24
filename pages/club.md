@@ -2,18 +2,33 @@
 layout: page
 nav_title: Club
 title: Clubul Familiei Homeschooling Moldova
-description: Clubul Familiei Homeschooling Moldova
+description: >- # this means to ignore newlines until "baseurl:"
+  Căutăm spațiu public pentru întrunirile cu părinții! Pînă găsim spatiu
+  întrunirile vor fi o dată pe lună la una din biblioteci.
 permalink: club
 order: 3
 ---
 
-⚠️ Căutăm spațiu public pentru întrunirile cu părinții. Pînă găsim spatiu,
-întrunirile vor fi o dată pe lună la una din biblioteci. ⚠️
+<style>
+.announcement {
+  background-color: #f0f0f0;
+  padding: 1em;
+  border-radius: 1em;
+  max-width: 30em;
+  text-align: center;
+  font-weight: bold;
+  margin: 0 auto 2em;
+}
+</style>
+
+<div class="announcement">
+  <p>⚠️ Căutăm spațiu public pentru întrunirile cu părinții! ⚠️ </p>
+
+  <p>Pînă găsim spatiu întrunirile vor fi o dată pe lună la una din biblioteci.</p>
+</div>
 
 Vă așteptăm, cu mare drag pe mamici cu pici mari și mici! 😊 Pe toți părinții
-interesați de homeschooling, sau cei care deja faceți homeschooling, în timpul
-zilei sau după serviciu, noi suntem aici și vă așteptăm de la ora 10:00 pînă
-seara la 20:00.
+interesați de homeschooling, sau cei care deja faceți homeschooling.
 
 1. Veniți să facem cunostință!
 2. Veniți să vă răspundem la întrebările legate homeschooling.
