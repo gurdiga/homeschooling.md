@@ -61,6 +61,18 @@ fac, sau vor să facă homeschooling.
 
 ## Cărți
 
+### Дима Зицер
+
+* «Любить нельзя воспитывать» \[[recenzie][0] • [MP3][1] • [ЛитРес][2]]
+  * Emisiune dialog cu ascultătorii \[[radio «Маяк»][4] • [YouTube][5] • [iTunes][6]]
+
+[0]: {% link _posts/2018-07-28-recenzie-carte-дети-как-зеркало.md %}
+[1]: https://drive.google.com/open?id=1xblB4NK7AH1oROhCWtqKGjOewyYrOArq
+[2]: https://www.litres.ru/dmitriy-zicer/lubit-nelzya-vospityvat-36310012
+[4]: https://radiomayak.ru/podcasts/podcast/id/2981/#podcast-theme
+[5]: https://www.youtube.com/user/mayaktv/search?query=Любить+нельзя+воспитывать
+[6]: https://podcasts.apple.com/ru/podcast/любить-нельзя-воспитывать/id1355803662
+
 ### John Holt
 
 * [How Children Learn (Classics in Child Development)](https://www.goodreads.com/book/show/573003)
