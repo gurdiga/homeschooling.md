@@ -53,7 +53,8 @@ bundler: /usr/local/bin/bundle
 	bundle check || bundle install
 
 edit:
-	bundle open minima
+	code -n .
+e: edit
 
 open:
 	open http://$(SERVER_IP):$(SERVER_PORT)
