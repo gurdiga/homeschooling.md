@@ -22,7 +22,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   forte și particularitățile copilului. Un element important în homeschooling
   este faptul că se cultivă o relație foarte bună între părinte și copil.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://educatie.pentru.md" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://homeschooling.md" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username:
 github_username:
 
