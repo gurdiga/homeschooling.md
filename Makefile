@@ -7,7 +7,7 @@ build: ensure-post-author bundler
 	bundle exec jekyll build
 
 ensure-post-author:
-	@find _posts/ -name '*.md' | xargs -I{} bash -c "grep -qP '^author: \w+' {} || ( echo 'No author found for {}' && exit 1 )"
+	@find _posts/ -name '*.md' | xargs -I{} bash -c "grep -qP '^author: \w+' {} || ( printf '\nNo author found for {}\n\n' && exit 1 )"
 
 pre-commit: build
 
@@ -38,7 +38,7 @@ purge:
 	rm $(SERVER_PID_FILE)
 
 post: bundler
-	read -p "Article title: " title && bundle exec jekyll post "$$title"
+	read -p "Article title: " TITLE && EDITOR=code bundle exec jekyll post "$$TITLE"
 
 # More jekyll-compose goodness, with `bundle exec`:
 # jekyll page "My New Page"
@@ -73,6 +73,3 @@ _sass/_fonts.scss:
 	mkdir -p assets/fonts
 	grep -Po 'https://fonts.gstatic.com\S+.woff2' $@ | xargs wget --directory-prefix=assets/fonts/
 	/usr/local/opt/gnu-sed/libexec/gnubin/sed -i 's|https://fonts.gstatic.com/.*/|fonts/|' $@
-
-define GFONTS
-endef
