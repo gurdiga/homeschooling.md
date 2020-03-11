@@ -114,6 +114,7 @@ blockquote {
 
 .post-content {
   position: relative; /* to allow the absolute positioning of the .translation-link */
+  max-width: 33em;
 
   .translation-link {
     position: absolute;
