@@ -17,25 +17,7 @@ test: $(SERVER_PID_FILE)
 		|| rm -f mirror && exit 1
 
 start: .tmp build bundler
-	@test -e $(SERVER_PID_FILE) \
-		&& echo "$(SERVER_PID_FILE) already exists. The server is probably already running." && exit 1 \
-		|| echo "Starting the server..."
-	bundle exec jekyll serve --host $(SERVER_IP) --port $(SERVER_PORT) &> $(SERVER_LOG_FILE) & disown && echo $$! > $(SERVER_PID_FILE)
-
-stop: $(SERVER_PID_FILE)
-	kill `cat $(SERVER_PID_FILE)`
-	@rm $(SERVER_PID_FILE) $(SERVER_LOG_FILE)
-
-restart: stop build start
-
-$(SERVER_PID_FILE):
-	@echo "No $(SERVER_PID_FILE) file. The server is probably not running." && exit 1
-
-.tmp:
-	mkdir .tmp
-
-purge:
-	rm $(SERVER_PID_FILE)
+	bundle exec jekyll serve --host $(SERVER_IP) --port $(SERVER_PORT)
 
 post: bundler
 	read -p "Article title: " TITLE && EDITOR=code bundle exec jekyll post "$$TITLE"
