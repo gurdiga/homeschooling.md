@@ -114,7 +114,6 @@ blockquote {
 
 .post-content {
   position: relative; /* to allow the absolute positioning of the .translation-link */
-  max-width: 33em;
 
   .translation-link {
     position: absolute;
@@ -180,6 +179,12 @@ h2.post-list-heading {
 .post-list h3 {
   margin-bottom: 0;
   line-height: 1;
+}
+
+
+ul.post-list>li>p,
+.post-content[itemprop="articleBody"] {
+  max-width: 30em;
 }
 
 address {
