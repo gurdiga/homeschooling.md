@@ -199,6 +199,10 @@ GoodReads](https://www.goodreads.com/author/show/5807562.Pam_Laricchia).
 Alte cărți tematice de această autoare găsiți [pe pagina de la
 GoodReads](https://www.goodreads.com/author/show/869719.Sandra_Dodd).
 
+### Joyce Fetteroll
+
+* Articole cu întrebări și răspunsuri grupate pe categorii: [JoyfullyRejoycing.com](https://www.joyfullyrejoycing.com)
+
 ### A. S. Neill
 
 * [Freedom, Not License!](https://www.goodreads.com/book/show/2048282)
