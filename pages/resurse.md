@@ -63,7 +63,7 @@ fac, sau vor să facă homeschooling.
 
 ### Дима Зицер
 
-* «Любить нельзя воспитывать» \[[recenzie][0] • [MP3][1] • [ЛитРес][2]]
+* «Любить нельзя воспитывать» \[[MP3 gratuit][1] • [recenzie][0] • [ЛитРес][2]]
   * Emisiune dialog cu ascultătorii \[[radio «Маяк»][4] • [YouTube][5] • [iTunes][6]]
 
 [0]: {% link _posts/2018-07-28-recenzie-carte-дети-как-зеркало.md %}
@@ -72,6 +72,12 @@ fac, sau vor să facă homeschooling.
 [4]: https://radiomayak.ru/podcasts/podcast/id/2981/#podcast-theme
 [5]: https://www.youtube.com/user/mayaktv/search?query=Любить+нельзя+воспитывать
 [6]: https://podcasts.apple.com/ru/podcast/любить-нельзя-воспитывать/id1355803662
+
+* «О бессмысленности воспитания подростков» \[[PDF gratuit][dz1] • [Отзывы][dz3] • [ЛитРес][dz2]]
+
+[dz1]: https://drive.google.com/open?id=1r996dH48CGZ6XrEcHeTD4kReTRnd4j66
+[dz2]: https://www.litres.ru/dmitriy-zicer/o-bessmyslennosti-vospitaniya-podrostkov-37664775/
+[dz3]: https://www.litres.ru/dmitriy-zicer/o-bessmyslennosti-vospitaniya-podrostkov-37664775/otzivi/
 
 ### John Holt
 
