@@ -89,14 +89,14 @@ fac, sau vor să facă homeschooling.
     • [cartepedia](http://www.edituratrei.ro/carte/john-holt-cum-invata-copiii/2852/)]
   * На русском: «Залог детских успехов»
     \[[отзыв](http://ps.1september.ru/article.php?ID=200205002)
-    • [PDF]({% link assets/books/John-Holt-How-Children-Learn-Russian.pdf %})
+    • [PDF gratuit]({% link assets/books/John-Holt-How-Children-Learn-Russian.pdf %})
     • [ozon.ru](https://www.ozon.ru/context/detail/id/2314792/)
     • [meshok.net](https://meshok.net/item/7570465)]
 * [Teach Your Own](https://www.goodreads.com/book/show/573002)
 * [How Children Fail (Classics in Child Development)](https://www.amazon.com/gp/product/0201484021)
   * На русском: «Причины детских неудач»
     \[[отзыв](https://www.livelib.ru/book/1000466175)
-    • [PDF](http://dpir.mskh.am/sites/default/files/John-Holt-How-Children-Fail-Russian.pdf)
+    • [PDF gratuit](http://dpir.mskh.am/sites/default/files/John-Holt-How-Children-Fail-Russian.pdf)
     • [ozon.ru](https://www.ozon.ru/context/detail/id/4778666/)
     ]
 * [Learning All The Time](https://www.goodreads.com/book/show/573005)
@@ -108,7 +108,7 @@ fac, sau vor să facă homeschooling.
 * [Dumbing Us Down](https://www.goodreads.com/book/show/225850)
   * На русском: «Фабрика марионеток. Исповедь школьного учителя»
     \[[отзыв](http://www.koob.ru/gatto/dumbing_us_down)
-    • [PDF](https://little.com.ua/media/files/1396022327-fabrika-marionetok.pdf)
+    • [PDF gratuit](https://little.com.ua/media/files/1396022327-fabrika-marionetok.pdf)
     • [online](https://www.litmir.me/br/?b=101825)
     • [Лабиринт](https://www.labirint.ru/books/112619/)]
 * [The Exhausted School](https://www.goodreads.com/book/show/1004170)
@@ -120,7 +120,7 @@ fac, sau vor să facă homeschooling.
     \[[idea.ro](http://www.idea.ro/editura/ro/pentru-a-decolariza-societatea-d171.html)]
   * На русском: «Освобождение от школ»
     \[[online](https://eusi.ru/lib/illic_osvobogdenie/index.php)
-    • [PDF](https://bojidarivkov.files.wordpress.com/2012/11/illich_ivan-osvobojdenie_ot_schkol.pdf)
+    • [PDF gratuit](https://bojidarivkov.files.wordpress.com/2012/11/illich_ivan-osvobojdenie_ot_schkol.pdf)
     • [ozon.ru](https://www.ozon.ru/context/detail/id/3478742/)]
 
 ### Durrell Gerald (Джеральд Даррелл)
@@ -178,7 +178,7 @@ Praise and Other Bribes](https://www.goodreads.com/book/show/541132)
     ]
   * На русском: «Безусловные родители»
     \[[online](https://yadi.sk/d/TqBPzTPLGgcPD)
-    • [PDF](http://metodich.ru/8192/index.html)
+    • [PDF gratuit](http://metodich.ru/8192/index.html)
     ]
 
 ### Pam Laricchia
@@ -204,7 +204,7 @@ GoodReads](https://www.goodreads.com/author/show/869719.Sandra_Dodd).
 
 * [Freedom, Not License!](https://www.goodreads.com/book/show/2048282)
   \[[online](https://archive.org/details/FreedomNotLicence-A.S.Neill)
-  • [PDF](https://ia800205.us.archive.org/15/items/FreedomNotLicence-A.S.Neill/freedom-neill.pdf)
+  • [PDF gratuit](https://ia800205.us.archive.org/15/items/FreedomNotLicence-A.S.Neill/freedom-neill.pdf)
   • [Kindle](https://archive.org/download/FreedomNotLicence-A.S.Neill/freedom-neill.mobi)
   ]
 
