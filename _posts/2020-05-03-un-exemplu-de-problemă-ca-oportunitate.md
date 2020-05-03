@@ -5,7 +5,7 @@ date: 2020-05-03 16:03 +0300
 author: Vlad GURDIGA
 ---
 
-Sună banal că orice problemă o poți privi și ca o oportunitate, dar pentru mine carantina asta a fost mai mult decît o oportunitate, a fost o dorință împlinită. De ceva vreme, în adîncul gîndurilor mele aveam dorința de a petrece mai mult timp cu familia.
+Expresia „Orice problemă o poți privi ca pe o oportunitate!” sună banal, dar pentru mine carantina asta a fost mai mult decît o oportunitate, a fost o dorință împlinită. De ceva vreme, în adîncul gîndurilor mele aveam dorința de a petrece mai mult timp cu familia.
 
 Asta a-nceput în una din seri cînd, stînd de vorbă cu Natalia mea, am conștientizat cu amărăciune cît de puțin timp petrecem împreună, atît noi doi ca cuplu, cît și cu copiii ca familie. Și cu o asemenea stare de lucruri, desigur aveam o grămadă de diferențe în viziunile noastre, și desigur nu aveam destul timp pentru a ne alinia. Am înghițit ambii în sec.
 
