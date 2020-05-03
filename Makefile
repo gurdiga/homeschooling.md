@@ -20,7 +20,7 @@ start: .tmp build bundler
 	bundle exec jekyll serve --host $(SERVER_IP) --port $(SERVER_PORT)
 
 post: bundler
-	read -p "Article title: " TITLE && EDITOR=code bundle exec jekyll post "$$TITLE"
+	@read -p "Article title: " TITLE && EDITOR=code bundle exec jekyll post "$$TITLE"
 
 # More jekyll-compose goodness, with `bundle exec`:
 # jekyll page "My New Page"
