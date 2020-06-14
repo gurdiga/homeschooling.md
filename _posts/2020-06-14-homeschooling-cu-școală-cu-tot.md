@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Homeschooling cu șoală cu tot
+title: Homeschooling cu școală cu tot
 date: 2020-06-14 11:32 +0300
 author: Vlad GURDIGA
 ---
@@ -21,10 +21,10 @@ Unul dintre aceste principii este că:
 
 Este un lucru evident, nu?
 
-Adică dacă mă gîndesc cum ași fi eu acel copil, dacă nu ași fi odihnit și hrănit, atunci împlinirea acestor necesități ar fi pentru mine mult mai importantă decît să învăț tabla înmulțirii sau despre numărul de atomi în molecula de apă. Și apectul sufletesc este la fel de important: dacă eu sunt într-o relație tensionată cu mama, dacă nu mă simt auzit și văzut, atunci anume la aceste lucruri o să mă gîndesc toată ziua, chiar dacă dacă învățătorul de geografie încearcă să-mi trezească interesul.
+Adică dacă mă gîndesc cum ași fi eu acel copil, dacă nu ași fi odihnit și hrănit, atunci împlinirea acestor necesități ar fi pentru mine mult mai importantă decît să învăț tabla înmulțirii sau despre numărul de atomi în molecula de apă. Și aspectul sufletesc este la fel de important: dacă eu sunt într-o relație tensionată cu mama, dacă nu mă simt auzit și văzut, atunci anume la aceste lucruri o să mă gîndesc toată ziua, chiar dacă dacă învățătorul de geografie încearcă să-mi trezească interesul.
 
 Ca părinte, dacă înțeleg asta, atunci o să țin cont în primul rînd de aceea ca copilul să se simtă bine, să se simtă în siguranță, să avem o relație în care el poate să-mi spună durerea și bucuria, pentru că doar așa o să-l pot ajuta. Asta devine și mai important atunci cînd o mai mare parte a zilei el este în afara familiei, și noi ca părinți sigur vrem să știm măcar cît de cît ce i se întîmplă în acel răstimp.
 
-Fiecare dintre noi are lucruri care ne interesează mai mult, și lucruri care ne interesează mai puțin. Plus la toate depinde și de moment: uneori preferăm unele lucruri, alterori altele. Exact așa funcționează și la copiii noștri care merg la școală: sunt materii care le sunt mai interesante decît altele, și asta e perfect normal. Nu trebuie să insistăm ca copilul nostru să obțină note mari la toate materiile, ci trebuie să-l ajutăm să crească în direcția în care este interesat în acel moment.
+Fiecare dintre noi are lucruri care ne interesează mai mult, și lucruri care ne interesează mai puțin. Plus la toate depinde și de moment: uneori preferăm unele lucruri, alteori altele. Exact așa funcționează și la copiii noștri care merg la școală: sunt materii care le sunt mai interesante decît altele, și asta e perfect normal. Nu trebuie să insistăm ca copilul nostru să obțină note mari la toate materiile, ci trebuie să-l ajutăm să crească în direcția în care este interesat în acel moment.
 
 Un învățător bun înțelege aceste lucruri, dar pentru noi, ca părinți, este și mai important să le înțelegem pentru că merge vorba de cele mai apropiate persoane din viața noastră.
