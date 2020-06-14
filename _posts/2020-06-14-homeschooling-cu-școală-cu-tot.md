@@ -11,7 +11,7 @@ Tocmai de aceea distribuim în comunitate și materiale care se referă nemijloc
 
 Adevărul e, că relațiile bune din familie sunt un fundament necesar pentru ca homeschooling-ul să fie eficace. Și de aceea, și dacă sunteți un părinte în devenire, și dacă aveți experiență îndelungată, este benefic să explorați resursele[^1] de homeschooling și unschooling ca să vă formați acest fundament. Eu prefer materialele de psihologie din contextul la parenting, homeschooling și unschooling, pentru că de multe ori, ele sunt mai puțin teoretice decît ceea ce se învață dintr-un manual de psihologie, și se referă anume la relațiile de zi cu zi pe care le avem în familie.
 
-[^1]: Vedeți pagina noastră de resurse [homeschooling.md/resurse](https://homeschooling.md/resurse).
+[^1]: Vedeți pagina noastră de resurse [homeschooling.md/resurse]({% link pages/resurse.md %}).
 
 Mai mult decît atît, eu sunt convins că multe dintre principiile homeschooling-ului sunt aplicabile și benefice chiar și în familiile care nu pot face homeschooling din anumite motive.
 
