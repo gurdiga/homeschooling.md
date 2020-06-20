@@ -38,13 +38,6 @@
                  <a class="page-link" href="{{ my_page.url | relative_url }}">
                    <span class="text">{{ title | escape }}</span>
                  </a>
-
-                {%- if title == "Club" -%}
-                  <a class="page-link" href="https://forum.homeschooling.md/">
-                    <span class="text">Forum</span>
-                  </a>
-                {%- endif -%}
-
               {%- endunless -%}
             {%- endif -%}
           {% endfor -%}
