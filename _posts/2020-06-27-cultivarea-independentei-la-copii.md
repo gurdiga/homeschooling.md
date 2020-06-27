@@ -16,7 +16,7 @@ Recent, o mămică întreba pe un grup de unschool-eri:
 
 <!-- excerpt -->
 
-Nu poți învăța pe cineva să fie independent. Fiecare are copil are felul calea și momentul său spre independență. În general noi ca părinți putem doar să creăm condițiile prielnice pentru dezvoltarea independenței cum ar fi încrederea, siguranța, calm, și în aceste condiții, treptat, la momentul potrivit, va crește și independența.
+Nu poți învăța pe cineva să fie independent. Fiecare are copil are momentul și calea sa spre independență. În general noi ca părinți putem doar să creăm condiții prielnice pentru dezvoltarea independenței cum ar fi încredere, siguranță, calm, și în aceste condiții, treptat, la momentul potrivit, va crește și independența.
 
 Un contra exemplu pentru stimularea independenței este atunci cînd copilul la un an sau doi încearcă să apuce lingura să mănînce singur, și mama insistă să-l hrănească ea, din diferite motive: să nu facă mizerie pe masă și pe jos, să nu se murdărească pe față și pe hăinuțe, etc. Da, toate aceste motive sunt întemeiate, dar probabil nu sunt la fel de importante ca dezvoltarea unei persoane de sine stătătoare.
 
