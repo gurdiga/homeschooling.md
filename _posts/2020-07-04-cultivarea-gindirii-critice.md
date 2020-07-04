@@ -9,11 +9,11 @@ Vrem ca copiii noștri să poată gîndi critic, să poată analiza o situație 
 
 Oricît de evidentă ar fi această idee în teorie, dacă privim la interacțiunile de zi cu zi pe care le avem cu copiii, constatăm că de multe ori nu sunt constructive.
 
-Facem asta de cele mai multe ori inconștient, datorită şabloanelor de comunicare pe care le-am primit din familie, din sistemul de învățămînt, și din societate în general.
+Facem asta de cele mai multe ori inconștient, datorită șabloanelor de comunicare pe care le-am primit din familie, din sistemul de învățămînt, și din societate în general.
 
 La prima vedere este mult mai ușor să dăm instrucțiuni clare pe care copiii să le urmeze, și în familie și mai ales la școală, dar pe termen lung asta duce la cultivarea unor copiii „ascultători” care știu să execute instrucțiuni dar nu știu să analizeze un context și să-și construiască viziunea proprie despre lucruri.
 
-Un exemplu elementar este dimineața, cînd fiica de 8 ani întreabă: „Cu ce haine să mă îmbrac?” mămica îi dă repejor un răspuns, și pentru moment toată lumea e fericită. Din păcate, pe termen lung, asta e o practică păguboasă pentru că fiica noastră tocmai a pierdut o oportunitate de a analiza contextul și de a face o concluzie contructivă pentru sine și pentru mămică.
+Un exemplu elementar este dimineața, cînd fiica de 8 ani întreabă: „Cu ce haine să mă îmbrac?” mămica îi dă repejor un răspuns, și pentru moment toată lumea e fericită. Din păcate, pe termen lung, asta e o practică păguboasă pentru că fiica noastră tocmai a pierdut o oportunitate de a analiza contextul și de a face o concluzie constructivă pentru sine și pentru mămică.
 
 Era probabil un moment oportun de a da întrebări în loc de instrucțiuni:
 - Hai să vedem: cum e vremea afară?
@@ -21,7 +21,7 @@ Era probabil un moment oportun de a da întrebări în loc de instrucțiuni:
 - Cu ce te-ai îmbrăcat în alte zile?
 - Care haine sunt mai potrivite pentru ocupația concretă?
 
-Un alt exemplu destul de frecvent cred eu este cînd copilul modelează, contruiește, sau desenează ceva și vine la noi cu întrebarea: „E frumos?”. De multe ori avem tendința să zicem deva de genul „Desigur!”, sau „Foarte frumos!”, sau și mai rău: „E cel mai frumos!”. S-ar părea că nu e nimic rău în asta, și din nou, pare că toată lumea e mulțumită, dar astfel pierdem oportunitatea de a face o conversație interesantă și de a-l ajuta să-și înțeleagă și aprecieze creația. În loc de a-i pune nota pe care o cere, am putea să-i punem niște întrebări:
+Un alt exemplu destul de frecvent cred eu este cînd copilul modelează, construiește, sau desenează ceva și vine la noi cu întrebarea: „E frumos?”. De multe ori avem tendința să zicem ceva de genul „Desigur!”, sau „Foarte frumos!”, sau și mai rău: „E cel mai frumos!”. S-ar părea că nu e nimic rău în asta, și din nou, pare că toată lumea e mulțumită, dar astfel pierdem oportunitatea de a face o conversație interesantă și de a-l ajuta să-și înțeleagă și aprecieze creația. În loc de a-i pune nota pe care o cere, am putea să-i punem niște întrebări:
 - Ce ai încercat să desenezi aici?
 - Ce înseamnă că soarele este de culoare albastră?
 - Care elemente au fost cele mai dificil de făcut?
