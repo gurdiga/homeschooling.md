@@ -27,7 +27,7 @@ order: 3
   <p>Pînă găsim spatiu întrunirile vor fi o dată pe lună la una din biblioteci.</p>
 </div>
 
-Vă așteptăm, cu mare drag pe mamici cu pici mari și mici! 😊 Pe toți părinții
+Vă așteptăm, cu mare drag pe mămici cu pici mari și mici! 😊 Pe toți părinții
 interesați de homeschooling, sau cei care deja faceți homeschooling.
 
 1. Veniți să facem cunostință!
@@ -36,13 +36,13 @@ interesați de homeschooling, sau cei care deja faceți homeschooling.
    Așteptăm propuneri și să vă implicați activ în acest proces.
 4. Homeschooling înseamnă în primul rînd educația părinților, vă așteptăm cu
    propuneri și sugestii, să organizăm împreună o școală și a părinților.
-5. Veniți pur și simplu pentru incurajare și susținere morală. Confortul
+5. Veniți pur și simplu pentru încurajare și susținere morală. Confortul
    psihologic de a comunica cu persoane care sunt pe aceeași undă contează
    foarte mult!
 6. Aici va fi sediul de lucru al grupului de părinți activi cu care lucrăm la
    partea formalizării și legalizării educației la distanță și în familie.
 
-Va asteptam cu drag! 🙂
+Vă așteptăm cu drag! 🙂
 
 _Pentru mai multe informații sunați la <a href="tel:+37379172760">079172760</a> — Diana._
 
