@@ -9,7 +9,7 @@ Acesta este încă un principiu din homeschooling care dacă-l acceptăm, ne poa
 
 E bine să ținem minte că mintea copiilor nu functionează ca un vas care trebuie să fie umplut cu învățături. Ei sunt ființe vii care încearcă să înțeleagă cum funcționează lumea din jurul lor și învață lucrurile pe măsura necesității.
 
-Am să parafrazez un exemplu din cartea Sandrei Dodd[^1], ușor amuzant, dar totuși foarte ilustrativ al faptului că cunoașterea se produce doar atunci cînd există interes:
+Am să parafrazez un exemplu din cartea Sandrei Dodd[^1], ușor comic, dar totuși foarte ilustrativ al faptului că cunoașterea se produce doar atunci cînd există interes:
 
 > Dacă vreau să învăț pe cineva cum se ortografiază „s-au” și „sau”, eu în postura mea de învățător pot să vorbesc, pot să le arăt exemple, pot să fac glumițe să pară ocupația mai veselă, să desenez figurine din bețișoare ca să reprezint persoane care discută între ele.
 >
