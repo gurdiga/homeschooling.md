@@ -1,7 +1,5 @@
 SERVER_IP=127.1
 SERVER_PORT=4006
-SERVER_PID_FILE=.tmp/server.pid
-SERVER_LOG_FILE=.tmp/server.log
 
 build: ensure-post-author bundler
 	bundle exec jekyll build
@@ -16,7 +14,7 @@ test: $(SERVER_PID_FILE)
 		&& rm mirror \
 		|| rm -f mirror && exit 1
 
-start: .tmp build bundler
+start: build bundler
 	bundle exec jekyll serve --host $(SERVER_IP) --port $(SERVER_PORT)
 
 post: bundler
