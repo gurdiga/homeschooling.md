@@ -53,3 +53,6 @@ _sass/_fonts.scss:
 	mkdir -p assets/fonts
 	grep -Po 'https://fonts.gstatic.com\S+.woff2' $@ | xargs wget --directory-prefix=assets/fonts/
 	/usr/local/opt/gnu-sed/libexec/gnubin/sed -i 's|https://fonts.gstatic.com/.*/|fonts/|' $@
+
+update:
+	bundle update --all
