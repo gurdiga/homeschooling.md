@@ -78,6 +78,15 @@ fac, sau vor să facă homeschooling.
 [dz2]: https://www.litres.ru/dmitriy-zicer/o-bessmyslennosti-vospitaniya-podrostkov-37664775/
 [dz3]: https://www.litres.ru/dmitriy-zicer/o-bessmyslennosti-vospitaniya-podrostkov-37664775/otzivi/
 
+### Adele Faber & Elaine Mazlish
+
+* «Братья и сестры. Как помочь вашим детям жить дружно» \[[MP3 gratuit][bs1] • [Text][bs4] • [recenzii][bs2] • [ЛитРес][bs3]]
+
+[bs1]: https://drive.google.com/drive/folders/1mz_jzAeVAVm5XOB6NBXbcEipGpVHNC7G
+[bs2]: https://www.litres.ru/adel-faber/bratya-i-sestry-kak-pomoch-vashim-detyam-zhit-druzhno/otzivi/
+[bs3]: https://www.litres.ru/adel-faber/bratya-i-sestry-kak-pomoch-vashim-detyam-zhit-druzhno/
+[bs4]: http://loveread.ec/read_book.php?id=49168&p=1
+
 ### John Holt
 
 * [How Children Learn (Classics in Child Development)](https://www.goodreads.com/book/show/573003)
