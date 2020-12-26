@@ -77,14 +77,21 @@ fac, sau vor să facă homeschooling.
 [dz2]: https://www.litres.ru/dmitriy-zicer/o-bessmyslennosti-vospitaniya-podrostkov-37664775/
 [dz3]: https://www.litres.ru/dmitriy-zicer/o-bessmyslennosti-vospitaniya-podrostkov-37664775/otzivi/
 
-### Adele Faber & Elaine Mazlish
+### Adele Faber & Elaine Mazlish (Адель Фабер и Элейн Мазлиш)
 
-* «Братья и сестры. Как помочь вашим детям жить дружно» \[[MP3 gratuit][bs1] • [Text][bs4] • [recenzii][bs2] • [ЛитРес][bs3]]
+* «Братья и сестры. Как помочь вашим детям жить дружно»
+  \[[MP3 gratuit][bs1] • [Text gratuit][bs4] • [recenzii][bs2]]
+* «Как говорить, чтобы дети слушали, и как слушать, чтобы дети говорили»
+  \[[MP3 gratuit][kg1] • [Text gratuit][kg2] • [recenzii][kg3]]
 
 [bs1]: https://drive.google.com/drive/folders/1mz_jzAeVAVm5XOB6NBXbcEipGpVHNC7G
 [bs2]: https://www.litres.ru/adel-faber/bratya-i-sestry-kak-pomoch-vashim-detyam-zhit-druzhno/otzivi/
 [bs3]: https://www.litres.ru/adel-faber/bratya-i-sestry-kak-pomoch-vashim-detyam-zhit-druzhno/
 [bs4]: http://loveread.ec/read_book.php?id=49168&p=1
+
+[kg1]: https://drive.google.com/drive/folders/1RFLv5T56bT-nVVLh73SWkaof2XlBwt-j
+[kg2]: http://loveread.ec/read_book.php?id=49167&p=1 
+[kg3]: https://www.litres.ru/adel-faber/kak-govorit-chtoby-deti-slushali-i-kak-slushat-chtoby-40497190/otzivi/
 
 ### John Holt
 
