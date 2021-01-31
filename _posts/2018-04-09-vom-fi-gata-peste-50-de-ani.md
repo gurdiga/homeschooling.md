@@ -3,7 +3,6 @@ layout: post
 title: Este societatea din Moldova pregătită pentru homeschooling/unschooling?
 date: 2018-04-09 10:28 +0300
 author: Diana CHICU
-excerpt_separator: <!-- excerpt -->
 ---
 
 Definiție:

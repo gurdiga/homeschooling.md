@@ -3,7 +3,6 @@ layout: post
 title: Cum obțin homeschoolerii diplomă?
 date: 2018-07-21 15:34 +0300
 author: Vlad GURDIGA
-excerpt_separator: <!-- excerpt -->
 ---
 
 O altă întrebare care o auzim frecvent la [întrunirile din fiecare

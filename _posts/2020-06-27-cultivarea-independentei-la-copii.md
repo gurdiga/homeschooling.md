@@ -3,7 +3,6 @@ layout: post
 title: Cultivarea independenței la copii
 date: 2020-06-27 14:53 +0300
 author: Vlad GURDIGA
-excerpt_separator: <!-- excerpt -->
 ---
 
 Recent, o mămică întreba pe un grup de unschool-eri:

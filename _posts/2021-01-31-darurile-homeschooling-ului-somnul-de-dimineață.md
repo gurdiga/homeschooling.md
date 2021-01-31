@@ -9,6 +9,8 @@ Este foarte bine, ca atunci când auzim o idee, să ne întrebăm: „Ce benefic
 
 Când merge vorba de homeschooling, probabil că mai mulți părinți se bucură de oportunitatea de ași menține și solidifica relația cu copiii, dar azi ași vrea să aduc în discuție un subiect care presupun că nu este atât de evident: somnul de dimineață.
 
+<!-- excerpt -->
+
 Somnul la oameni decurge în cicluri a câte 4 faze: NREM1, NREM2, NREM3, și REM, și de obicei, oamenii au câte 4 sau 5 cicluri complete, cu o durată de o oră jumătate până la două ore. Deci trecem prin NREM1, NREM2, NREM3, și REM de 4 sau 5 ori pe noapte.
 
 În ultima fază, REM, în creier se produc procese importante printre care consolidarea informațiilor acumulate pe parcursul zilei, și stocarea lor pe termen lung. Prin consolidarea cunoștințelor se are în vedere că toate lucrurile care le-am aflat ieri, în timpul fazelor REM se asamblează și formează o imagine integrală, se pun cap-la-cap și se fac legături cu alte lucruri pe care le știm, și asftel se formează un tot întreg, crește înțelepciunea.
