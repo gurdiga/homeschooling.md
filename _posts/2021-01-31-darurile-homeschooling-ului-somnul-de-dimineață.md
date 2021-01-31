@@ -19,7 +19,7 @@ Un moment important al fazelor REM este acela că ele sunt la început mai scurt
 
 De aici e clar că somnul de dimineață este un lucru vital pentru învățare și cunoaștere, și atunci este aproape paradoxal să trezim copiii la școală în momentul când mintea lor face cel mai important lucru!
 
-Și nu doar pentru copii: și pentru maturi, somnul de dimineață este la fel de important. Chiar dacă avem deșteptătoare și putere de voință și ne putem trezi cât mai devreme, aceste eforturi sunt mai degrabă contraproductive.
+Și nu doar pentru copii: și pentru maturi, somnul de dimineață este la fel de important. Chiar dacă avem deșteptătoare și putere de voință și ne putem trezi cât mai devreme, aceste eforturi sunt mai degrabă contraproductive: insuficiența de somn ne face mai puțin răbdători și ne scade capacitatea de concentrare.
 
 Sunt multe materiale pe internet, dar dacă ar fi să recomand o carte pe acest subiect, ar fi asta: „Why We Sleep” de Matthew Walker.
 
