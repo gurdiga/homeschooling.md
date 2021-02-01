@@ -3,6 +3,7 @@ layout: post
 title: Școala online HomeLife Academy
 date: 2018-06-17 19:03 +0300
 author: Vlad GURDIGA
+excerpt_separator: <!-- excerpt -->
 ---
 
 O întrebare frecventă pe care o primim de la părinți la [întrunirile noastre din

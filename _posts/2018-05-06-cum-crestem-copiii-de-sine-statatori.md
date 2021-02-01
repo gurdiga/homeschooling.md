@@ -3,6 +3,7 @@ layout: post
 title: Cum creștem copiii de sine stătători?
 date: 2018-05-06 11:17 +0300
 author: Vlad GURDIGA
+excerpt_separator: <!-- excerpt -->
 ---
 Definiția din dicționar zice așa:
 

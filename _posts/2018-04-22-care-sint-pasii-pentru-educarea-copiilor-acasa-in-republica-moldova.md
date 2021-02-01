@@ -1,8 +1,9 @@
 ---
 layout: post
-title: Care sînt pașii pentru educarea copiilor acasă în Republica Moldova?
+title: Care sînt pașii pentru educarea copiilor acasă în Republica Moldova? 
 date: 2018-04-22 13:09 +0300
 author: Diana CHICU
+excerpt_separator: <!-- excerpt -->
 ---
 
 > **Notă:** Acest articolul a fost inițial publicat de Vitalie Bugaian la 08.03.2014

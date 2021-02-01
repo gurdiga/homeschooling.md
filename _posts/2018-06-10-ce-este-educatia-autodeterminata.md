@@ -3,6 +3,7 @@ layout: post
 title: Ce este Educația Autodeterminată?
 date: 2018-06-10 15:32 +0300
 author: Vlad GURDIGA
+excerpt_separator: <!-- excerpt -->
 ---
 
 Să începem cu definiția termenului _educație_. În contextul conversațiilor de zi
