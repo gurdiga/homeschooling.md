@@ -3,11 +3,14 @@ layout: post
 title: 'Darurile Homeschooling-ului: somnul de dimineață'
 date: 2021-01-31 18:20 +0200
 author: Vlad GURDIGA
+excerpt_separator: <!-- excerpt -->
 ---
 
 Este foarte bine, ca atunci când auzim o idee, să ne întrebăm: „Ce beneficii are?”, „La ce ne folosește?”.
 
 Când merge vorba de homeschooling, probabil că mai mulți părinți se bucură de oportunitatea de ași menține și solidifica relația cu copiii, dar azi ași vrea să aduc în discuție un subiect care presupun că nu este atât de evident: somnul de dimineață.
+
+<!-- excerpt -->
 
 Somnul la oameni decurge în cicluri a câte 4 faze: NREM1, NREM2, NREM3, și REM, și de obicei, oamenii au câte 4 sau 5 cicluri complete, cu o durată de o oră jumătate până la două ore. Deci trecem prin NREM1, NREM2, NREM3, și REM de 4 sau 5 ori pe noapte.
 
