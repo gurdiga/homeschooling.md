@@ -63,7 +63,7 @@ fac, sau vor să facă homeschooling.
 
 ### Дима Зицер
 
-* Книга «Любить нельзя воспитывать» \[[MP3 gratuit][1] • [e-book gratuit][1] • [podcast][0] • [ЛитРес][2]]
+* Книга «Любить нельзя воспитывать» \[[MP3 gratuit][1] • [e‑book gratuit][1] • [podcast][0] • [ЛитРес][2]]
   * Emisiune dialog cu ascultătorii \[[radio «Маяк»][4] • [YouTube][5] • [iTunes][6]]
 * Книга «О бессмысленности воспитания подростков» \[[PDF gratuit][dz1] • [Отзывы][dz3] • [ЛитРес][dz2]]
 
