@@ -10,6 +10,7 @@ description: Întrebări frecvente despre homeschooling
 * [Ce înseamnă „Homeschooling” sau „Educație în Familie”?]({% link pages/definitie.md %})
 * [Cum fac homeschooling dacă nu am studii pedagogice?]({%
   link pages/aliases/studii-pedagogice.md %})
+* [Socializarea copiilor]({% link _posts/2021-02-18-socializarea-copiilor.md %})
 * [Cum socializează copii educați în familie?]({% link
 pages/aliases/socializare.md %})
 * [Dacă încep să fac homeschooling, ce mă fac dacă copilul n-o să vrea să învețe?]({% link pages/aliases/ce-sa-fac-daca-copilul-nu-vrea-sa-invete.md %})
