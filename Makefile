@@ -14,7 +14,7 @@ test: $(SERVER_PID_FILE)
 		&& rm mirror \
 		|| rm -f mirror && exit 1
 
-start: build bundler
+start: build bundler open
 	bundle exec jekyll serve --host $(SERVER_IP) --port $(SERVER_PORT)
 
 post: bundler
