@@ -17,7 +17,7 @@ Recent Asociația Homeschooling Moldova a fost invitată la dezbateri publice cu
 [2]: https://www.legislation.gov.uk/ukpga/1996/56/part/I/chapter/I/crossheading/compulsory-education
 [3]: https://www.legislation.gov.uk/ukpga/Geo6/7-8/31/section/36/enacted
 
-O nuanță notabilă pentru mine a fost tonul binevoitor și respectuos cu care este scris acest îdrumar: statul nu se poziționează ca o autoritate absolută, ci îndeamnă părinții la considerație și responsabilitate. Sunt impresionat.
+O nuanță notabilă pentru mine a fost tonul binevoitor și respectuos cu care este scris acest îndrumar: statul nu se poziționează ca o autoritate absolută, ci îndeamnă părinții la considerație și responsabilitate. Sunt impresionat.
 
 (Documentul e mai jos, ar putea dura câteva secunde până apare.)
 
