@@ -45,7 +45,7 @@ Pentru a deveni membru al asociației:
 * descărcați și completați [cererea de aderare (PDF)](https://docs.google.com/document/d/1cXfEeAXGOY9L4Etd8-WhSRBkSVOFLxtvxdFilLywcIU/export?format=pdf);
 * achitați cotizația de aderare  de 50 de lei la depunerea cererii, plus 100 de
 lei anual (vedeți mai jos rechizitele bancare);
-* prezetați cererea la [sediul „Clubul Familiei Homeschooling Moldova”](http://127.0.0.1:4006/club) pentru a fi semnată de președintele Asociației.
+* prezetați cererea la [sediul „Clubul Familiei Homeschooling Moldova”]({% link pages/club.md %}) pentru a fi semnată de președintele Asociației.
 
 ### Rechizite bancare
 
