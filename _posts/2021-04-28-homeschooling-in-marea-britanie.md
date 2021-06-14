@@ -19,7 +19,7 @@ Recent Asociația Homeschooling Moldova a fost invitată la dezbateri publice cu
 
 O nuanță notabilă pentru mine a fost tonul binevoitor și respectuos cu care este scris acest îndrumar: statul nu se poziționează ca o autoritate absolută, ci îndeamnă părinții la considerație și responsabilitate. Sunt impresionat.
 
-(Documentul e mai jos, ar putea dura câteva secunde până apare.)
+(Documentul e mai jos, ar putea dura câteva secunde până se afișează.)
 
 <iframe
   src="https://docs.google.com/document/d/1McNgP_ixbcKW3GgQTyzUnTc_TR2QNI3wog9dna-jwyA/preview"
