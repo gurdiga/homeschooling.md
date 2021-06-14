@@ -6,7 +6,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Căutăm spațiu public pentru întrunirile cu părinții! Pînă găsim spatiu
   întrunirile vor fi o dată pe lună la una din biblioteci.
 permalink: club
-order: 3
+order: 4
 ---
 
 <style>
