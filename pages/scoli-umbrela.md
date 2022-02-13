@@ -2,7 +2,7 @@
 layout: page
 title: Școli Umbrelă ☂️
 permalink: scoli-umbrela
-order: 1
+order: 2
 description: >-
   Școlile umbrelă sunt instituții de învățământ, de obicei din străinătate, care
   facilitează homeschooling-ul prin aceea că acoperă aspectele formale cerute de
