@@ -7,6 +7,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   întrunirile vor fi o dată pe lună la una din biblioteci.
 permalink: club
 order: 4
+hide_in_nav: true
 ---
 
 <style>

@@ -4,6 +4,7 @@ nav_title: Petiția
 title:
 permalink: petitie
 order: 3
+hide_in_nav: true
 description: >-
   Solicităm examinarea posibilității ajustării cadrului normativ pentru a oferi
   opțiunea școlarizării acasă, și afirmăm disponibilitatea inițierii unui dialog
