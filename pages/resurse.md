@@ -9,28 +9,6 @@ description: O listă de resurse despre educația alternativă.
 * Cuprins
 {:toc}
 
-
-## Școli umbrelă
-
-* [CEREHARD](https://redesignngo.com/cerehard/) — Școală umbrelă la București,
-după modelul International British School, demarată în 2017.
-* [Home Life Academy](http://www.homelifeacademy.com/) — Școală care oferă
-posibilitatea înregistrării la distanță, chiar și a copiilor din Moldova. Oferă
-consultanță părinților și copiilor, programe de studii și sfaturi practice.
-Eliberează certificat de înmatriculare.
-* [«ЦОДИВ» — Центр Обучения Детей и Взрослых](https://codiv.ru/) — «это школа,
-которая успешно совмещает очно-заочное, заочное (с применением дистанционных
-образовательных технологий) и дополнительное образование детей и взрослых.
-* [Школа InternetUrok.ru](https://interneturok.ru/about-us/o-proekte) — «это
-коллекция уроков по основным предметам школьной программы, постоянно пополняемая
-и свободная от рекламы. Уроки состоят из видео, конспектов, тестов и тренажёров.
-Сейчас на сайте собраны все уроки естественно-научного цикла для 1–11 классов
-и приблизительно половина уроков по гуманитарным дисциплинам.»
-* [Центр Поддержки Семейного Образования (ЦПСО)](https://www.hss.center/) —
-«Помогает семьям, выбравшим альтернативный путь получения среднего образования
-для своих детей, чувствовать себя свободно, спокойно и уверенно, и не
-волноваться о прикреплении к школе и прохождении ежегодных аттестаций.»
-
 ## Organizații
 
 * [Home School Legal Defense Association (HSLDA)](http://www.hslda.org/)
@@ -90,7 +68,7 @@ fac, sau vor să facă homeschooling.
 [bs4]: http://loveread.ec/read_book.php?id=49168&p=1
 
 [kg1]: https://drive.google.com/drive/folders/1RFLv5T56bT-nVVLh73SWkaof2XlBwt-j
-[kg2]: http://loveread.ec/read_book.php?id=49167&p=1 
+[kg2]: http://loveread.ec/read_book.php?id=49167&p=1
 [kg3]: https://www.litres.ru/adel-faber/kak-govorit-chtoby-deti-slushali-i-kak-slushat-chtoby-40497190/otzivi/
 
 ### John Holt

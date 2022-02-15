@@ -21,12 +21,17 @@ Am colectat aici o listă:
 4. [ric.krorm.ru](https://ric.krorm.ru): Русский интеллектуальный центр (РИЦ)
 5. [tischool.ro](https://tischool.ro): Transylvania International School (TIS)
 6. [foxford.ru](https://foxford.ru): Фоксфорд
-7. [wolseyhalloxford.org.uk](https://wolseyhalloxford.org.uk): Homeschooling Online Courses from Wolsey Hall Oxford
-8. [aceministries.com](https://www.aceministries.com/homeschool-options): Lighthouse Christian Academy
-9. [upgradeacademy.ro](https://www.upgradeacademy.ro): Upgrade Academy
-10. [khanacademy.org](https://www.khanacademy.org): Khan Academy
-11. [ixl.com](https://www.ixl.com): IXL
-12. [time4learning.com](https://www.time4learning.com): Time4Learning
-13. [classicalconversations.com](https://classicalconversations.com): Classical Conversations
-14. [homelifeacademy.com](https://homelifeacademy.com): HomeLifeAcademy (HLA)
-15. [didactic-school.online](https://didactic-school.online): Великая Дидактика, Дистанционный центр поддержки семейного образования
+7. [classicalconversations.com](https://classicalconversations.com): Classical Conversations
+8. [homelifeacademy.com](https://homelifeacademy.com): HomeLifeAcademy (HLA)
+9. [didactic-school.online](https://didactic-school.online): Великая Дидактика, Дистанционный центр поддержки семейного образования
+
+## Platforme educaționale
+
+Platformele educaționale sunt un spațiu online care oferă posibilitatea
+de a studia structurat și interactiv după un anumit curriculum.
+Platformele sunt diferite sub formă de: teste, lecții video, conspecte,
+exerciții, bibliotecă, materiale didactice probabile, s.a.
+
+1. [khanacademy.org](https://www.khanacademy.org): Khan Academy
+2. [ixl.com](https://www.ixl.com): IXL
+3. [time4learning.com](https://www.time4learning.com): Time4Learning
