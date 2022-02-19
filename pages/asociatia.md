@@ -106,3 +106,15 @@ Acest demers se poate descărca [aici în format PDF](https://docs.google.com/do
 ></iframe>
 
 Acest demers se poate descărca [aici în format PDF](https://docs.google.com/document/d/1-DMtKibEL64JXMBP7DB234vl4dVLNb16PBivjhW7xz8/export?format=pdf).
+
+## Proiectul de Lege, februarie 2022
+
+<iframe
+  src="https://docs.google.com/document/d/1m7HEs2tjAMi68776Fxj7bJN0x8GuYqNo/preview"
+  width="100%"
+  height="600"
+  frameborder="0"
+  style="border:0"
+></iframe>
+
+Acest demers se poate descărca [aici în format PDF](https://docs.google.com/document/d/1m7HEs2tjAMi68776Fxj7bJN0x8GuYqNo/export?format=pdf).
