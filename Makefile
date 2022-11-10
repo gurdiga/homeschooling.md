@@ -5,7 +5,7 @@ build: ensure-post-author bundler
 	bundle exec jekyll build
 
 ensure-post-author:
-	@find _posts/ -name '*.md' | xargs -I{} bash -c "grep -qP '^author: \w+' {} || ( printf '\nNo author found for {}\n\n' && exit 1 )"
+	@find _posts/ -name '*.md' | xargs -I{} bash -c "grep -qP '^author: \p{L}+' {} || ( printf '\nNo author found for {}\n\n' && exit 1 )"
 
 pre-commit: build
 
