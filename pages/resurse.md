@@ -16,22 +16,17 @@ description: O listă de resurse despre educația alternativă.
 fac, sau vor să facă homeschooling.
 * [Asociatia Home Scooling Romania](http://www.homeschooling.ro/)
 * [Covenant Home](http://www.covenanthome.com/)
-* [The HomeSchool Channel](http://homeschool.crosswalk.com/)
 * [National Home Education Research Institute](http://www.nheri.org/)
 
 
 ## Video/Audio
 
-* [Любить нельзя
-  воспитывать](https://www.youtube.com/playlist?list=PLtyzqtfQN7QC6zwBNszh0qhARgtDqejz2)
-программа [Димы Зицера](https://taplink.cc/dimazicer)
-
+* [Любить нельзя воспитывать][va0] программа [Димы Зицера][va1]
 * [Обратная связь. Семейное образование: как защитить ребенка от конвейера
-и «уравниловки»](https://video.mirtesen.ru/videos/personal/541944) — Ирина Шамолина,
-руководитель академической программы поддержки семейного образования
-«Классические беседы», член оргкомитета Международной конференции по семейному
-образованию в эфире программы «Обратная связь» расскажет:
-
+и «уравниловки»][va2] — Ирина Шамолина, руководитель академической программы
+поддержки семейного образования «Классические беседы», член оргкомитета
+Международной конференции по семейному образованию в эфире программы «Обратная
+связь» расскажет:
   * Почему она решила продвигать семейное образование в массы, чем её не
   устраивает стандартное образование?
   * Каждая ли мама может быть хорошим учителем для своего ребенка?
@@ -40,21 +35,23 @@ fac, sau vor să facă homeschooling.
   образование, получить аттестат и  сдать ЕГЭ?  Не превратится ли жизнь
   родителей, примеривших на себя роль учителя, в кошмар?
 
+[va0]: https://podcast.ru/1622007687
+[va1]: https://taplink.cc/dimazicer
+[va2]: https://video.mirtesen.ru/videos/personal/541944
 
 ## Cărți
 
 ### Дима Зицер
 
-* Книга «Любить нельзя воспитывать» \[[MP3 gratuit][1] • [e‑book gratuit][1] • [podcast][0] • [ЛитРес][2]]
-  * Emisiune dialog cu ascultătorii \[[radio «Маяк»][4] • [YouTube][5] • [iTunes][6]]
+* Книга «Любить нельзя воспитывать» \[[MP3 gratuit][1] • [e-book gratuit][1] • [podcast][0] • [ЛитРес][2]]
+  * [Emisiune dialog cu ascultătorii pe YouTube][5]
 * Книга «О бессмысленности воспитания подростков» \[[PDF gratuit][dz1] • [Отзывы][dz3] • [ЛитРес][dz2]]
 
-[0]: https://radiomayak.ru/podcasts/podcast/id/2981/
+[0]: https://podcast.ru/1622007687
 [1]: https://drive.google.com/open?id=1xblB4NK7AH1oROhCWtqKGjOewyYrOArq
 [2]: https://www.litres.ru/dmitriy-zicer/lubit-nelzya-vospityvat-36310012
 [4]: https://radiomayak.ru/podcasts/podcast/id/2981/#podcast-theme
-[5]: https://www.youtube.com/user/mayaktv/search?query=Любить+нельзя+воспитывать
-[6]: https://podcasts.apple.com/ru/podcast/любить-нельзя-воспитывать/id1355803662
+[5]: https://www.youtube.com/playlist?list=PLtyzqtfQN7QC6zwBNszh0qhARgtDqejz2
 [dz1]: https://drive.google.com/open?id=1r996dH48CGZ6XrEcHeTD4kReTRnd4j66
 [dz2]: https://www.litres.ru/dmitriy-zicer/o-bessmyslennosti-vospitaniya-podrostkov-37664775/
 [dz3]: https://www.litres.ru/dmitriy-zicer/o-bessmyslennosti-vospitaniya-podrostkov-37664775/otzivi/
@@ -79,21 +76,17 @@ fac, sau vor să facă homeschooling.
 
 * [How Children Learn (Classics in Child Development)](https://www.goodreads.com/book/show/573003)
   * În română: „Cum învață copiii”
-    \[[elefant.md](http://www.elefant.md/carti/carti-de-specialitate/stiinte-umaniste/psihologie/cum-invata-copiii-71127.html)
-    • [librarius](http://librarius.md/ro/book/cum-invata-copiii--461353)
+    \[[librarius](http://librarius.md/ro/book/cum-invata-copiii--461353)
     • [trei](http://www.edituratrei.ro/carte/john-holt-cum-invata-copiii/2852/)
     • [cartepedia](http://www.edituratrei.ro/carte/john-holt-cum-invata-copiii/2852/)]
   * На русском: «Залог детских успехов»
     \[[отзыв](http://ps.1september.ru/article.php?ID=200205002)
-    • [PDF gratuit]({% link assets/books/John-Holt-How-Children-Learn-Russian.pdf %})
-    • [ozon.ru](https://www.ozon.ru/context/detail/id/2314792/)
-    • [meshok.net](https://meshok.net/item/7570465)]
+    • [PDF gratuit]({% link assets/books/John-Holt-How-Children-Learn-Russian.pdf %})]
 * [Teach Your Own](https://www.goodreads.com/book/show/573002)
 * [How Children Fail (Classics in Child Development)](https://www.amazon.com/gp/product/0201484021)
   * На русском: «Причины детских неудач»
     \[[отзыв](https://www.livelib.ru/book/1000466175)
-    • [PDF gratuit](http://dpir.mskh.am/sites/default/files/John-Holt-How-Children-Fail-Russian.pdf)
-    • [ozon.ru](https://www.ozon.ru/context/detail/id/4778666/)
+    • [PDF gratuit]({% link assets/books/John-Holt-How-Children-Fail-Russian.pdf %})
     ]
 * [Learning All The Time](https://www.goodreads.com/book/show/573005)
 * [Instead of Education](https://www.goodreads.com/book/show/573008)
@@ -117,19 +110,18 @@ fac, sau vor să facă homeschooling.
   * На русском: «Освобождение от школ»
     \[[online](https://eusi.ru/lib/illic_osvobogdenie/index.php)
     • [PDF gratuit](https://bojidarivkov.files.wordpress.com/2012/11/illich_ivan-osvobojdenie_ot_schkol.pdf)
-    • [ozon.ru](https://www.ozon.ru/context/detail/id/3478742/)]
+    ]
 
 ### Durrell Gerald (Джеральд Даррелл)
 
 * [My Family and Other Animals](https://www.goodreads.com/book/show/48132)
   * În română: „Familia mea și alte animale”
-    \[[carti.md](https://www.carti.md/carti/familia-mea-si-alte-animale.html)
-    • [litera.md](https://litera.md/familia-mea-si-alte-animale-384150)
-    ]
+    \[ [litera.md](https://litera.md/familia-mea-si-alte-animale-384150) ]
   * На русском: «Моя семья и другие звери»
-    \[[online](http://loveread.ec/read_book.php?id=17007&p=1)
+    \[
+    [online](http://loveread.ec/read_book.php?id=17007&p=1)
     • [online](https://www.e-reading.club/book.php?book=18364)
-    • [ozon.ru](https://www.ozon.ru/context/detail/id/4868922/)]
+    ]
 
 ### Jan Hunt
 
@@ -146,13 +138,12 @@ can Lead to a Lifetime of Success](https://www.goodreads.com/book/show/6285746)
 * [Hold On to Your Kids: Why Parents Need to Matter More Than
 Peers](https://www.goodreads.com/book/show/106744)
   * În română: „Cum sa ne pastram copiii aproape”
-    \[[librarius](http://librarius.md/ro/book/cum-sa-ne-pastram-copiii-aproape-529768)
-    • [ivi.md](https://ivi.md/carti/cum-sa-ne-pastram-copiii-aproape-de-ce-parintii-trebuie-sa-fie-mai-importanti-decat-prietenii)
-    • [shop.totuldespremame.ro](http://shop.totuldespremame.ro/produs/cum-sa-ne-pastram-copiii-aproape/)
-    • [librarie.net](http://www.librarie.net/p/289760/)]
+    \[
+    [librarius](http://librarius.md/ro/book/cum-sa-ne-pastram-copiii-aproape-529768)
+    • [librarie.net](http://www.librarie.net/p/289760/)
+    ]
   * На русском: «Не упускайте своих детей»
-    \[[online](http://readli.net/ne-upuskayte-svoih-detey/)
-    • [ozon.ru](https://www.ozon.ru/context/detail/id/16446160/)]
+    \[ [online](http://readli.net/ne-upuskayte-svoih-detey/) ]
 
 ### Alfie Kohn
 
@@ -161,9 +152,10 @@ Children and Parenting](https://www.goodreads.com/book/show/25489083)
 * [Punished by Rewards: The Trouble with Gold Stars, Incentive Plans, A's,
 Praise and Other Bribes](https://www.goodreads.com/book/show/541132)
   * În română: „Pedepsiți prin recompense”
-    \[[review](http://www.totuldespremame.ro/copilul-tau/psihologie-si-comportament/pedepsit-de-recompense)
-    • [interviu](http://adevarul.ro/life-style/parinti/1_571d1fa85ab6550cb84f8e46)
-    • [tdm](http://shop.totuldespremame.ro/produs/pedepsiti-prin-recompense/)]
+    \[
+    [review](http://www.totuldespremame.ro/copilul-tau/psihologie-si-comportament/pedepsit-de-recompense)
+    • [tdm](http://shop.totuldespremame.ro/produs/pedepsiti-prin-recompense/)
+    ]
 
 
 * [Unconditional Parenting: Moving from Rewards and Punishments to Love and Reason](https://www.goodreads.com/book/show/111209)
@@ -203,7 +195,8 @@ GoodReads](https://www.goodreads.com/author/show/869719.Sandra_Dodd).
 ### A. S. Neill
 
 * [Freedom, Not License!](https://www.goodreads.com/book/show/2048282)
-  \[[online](https://archive.org/details/FreedomNotLicence-A.S.Neill)
+  \[
+  [online](https://archive.org/details/FreedomNotLicence-A.S.Neill)
   • [PDF gratuit](https://ia800205.us.archive.org/15/items/FreedomNotLicence-A.S.Neill/freedom-neill.pdf)
   • [Kindle](https://archive.org/download/FreedomNotLicence-A.S.Neill/freedom-neill.mobi)
   ]
@@ -214,7 +207,6 @@ GoodReads](https://www.goodreads.com/author/show/869719.Sandra_Dodd).
   \[[recenzie]({% link _posts/2018-07-28-recenzie-carte-дети-как-зеркало.md %})
   • [Labirint.ru: отзывы](https://www.labirint.ru/reviews/goods/544607/)
   • [Librarius.md](http://librarius.md/ru/book/deti-kak-zerkalo-kak-podruzhitisya-s-sobstvennym-rebenkom-menyayasi-samomu-468424)
-  • [akonit.net](http://akonit.net/322943-deti-kak-zerkalo.-kak-podruzhitsya-s-sobstvennim-rebenkom%2C-menyayas-samomu)
   ]
 
 [amaximov.ru](http://amaximov.ru/)
@@ -223,38 +215,38 @@ GoodReads](https://www.goodreads.com/author/show/869719.Sandra_Dodd).
 ### Teresa Graham Brett
 
 * [Parenting for Social Change](https://www.goodreads.com/book/show/10504971)
-  \[[website](https://www.parentingforsocialchange.com)
-  • [Facebook](https://www.facebook.com/parenting.for.social.change.book/)
-  ]
+    \[
+    [website](https://parentingforsocialchange.com/about-book-html/)
+    • [Facebook](https://www.facebook.com/parenting.for.social.change.book/)
+    ]
 
 ### Ольга Юрковская
 
 * «Хоумскулинг. Образование для жизни (аудиокнига)»
-  \[[ЛитРес](https://www.litres.ru/olga-urkovskaya/houmskuling-obrazovanie-dlya-zhizni-28740774/)
-  • [ozon.ru](https://www.ozon.ru/context/detail/id/143822253/)
-  • [download gratuit](https://www.facebook.com/HomeschoolingMoldova/posts/535002020309353)]
+    \[
+    [download gratuit](https://drive.google.com/drive/folders/1NplTA0Vvwab65DNxtua5U_Hi3usr7vXc)
+    • [ЛитРес](https://www.litres.ru/olga-urkovskaya/houmskuling-obrazovanie-dlya-zhizni-28740774/)
+    ]
 
 ## Link-uri utile
 
 ### Informații și sfaturi practice
 
-* [The Teaching Home](http://www.teachinghome.com/)
-* [Practical Homeschooling](http://www.home-school.com/)
-* [Homeschooling Today](http://www.homeschooltoday.com/)
-* [Home School Digest](http://www.homeschooldigest.com/)
-* [National Christian Forensics and Communications Association](http://www.ncfca.org/)
-* [TeenPact](http://www.teenpact.com/)
 * [Sandra Dodd](http://sandradodd.com/) — Mamă unschooler, autor de
-[articole](http://sandradodd.com/unschooling), [cărți](http://sandradodd.com/bigbook/), și
-[prezentări](http://sandradodd.com/listen/) tematice.
+    [articole](http://sandradodd.com/unschooling), [cărți](http://sandradodd.com/bigbook/), și
+    [prezentări](http://sandradodd.com/listen/) tematice.
 * [Pam Laricchia](http://livingjoyfully.ca/) — Mamă unschooler, autor de
-[articole](http://livingjoyfully.ca/blog/),
-[cărți](https://www.goodreads.com/author/show/5807562.Pam_Laricchia),
-[podcast](http://livingjoyfully.ca/podcast-2/), și prezentări tematice.
+    [articole](http://livingjoyfully.ca/blog/),
+    [cărți](https://www.goodreads.com/author/show/5807562.Pam_Laricchia),
+    [podcast](http://livingjoyfully.ca/podcast-2/), și prezentări tematice.
 * [Amy Childs](http://amychilds.com) — Mamă unschooler, consultant, autor de
 articole, și podcast tematic.
 * [Joyce Fetteroll](https://www.joyfullyrejoycing.com) — Mamă unschooler, autor,
 artist.
+* [The Teaching Home](http://www.teachinghome.com/)
+* [Practical Homeschooling](http://www.home-school.com/)
+* [Homeschooling Today](http://www.homeschooltoday.com/)
+* [Home School Digest](http://www.homeschooldigest.com/)
 * Colecția „Recommended Recent Books on Homeschooling” din cadrul proiectului
 „Learning in Freedom”:
   * [Homeschooling Resource Guides](http://learninfreedom.org/hsguides.html)
