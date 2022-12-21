@@ -20,7 +20,11 @@ fac, sau vor să facă homeschooling.
 * [National Home Education Research Institute](http://www.nheri.org/)
 
 
-## Video
+## Video/Audio
+
+* [Любить нельзя
+  воспитывать](https://www.youtube.com/playlist?list=PLtyzqtfQN7QC6zwBNszh0qhARgtDqejz2)
+программа [Димы Зицера](https://taplink.cc/dimazicer)
 
 * [Обратная связь. Семейное образование: как защитить ребенка от конвейера
 и «уравниловки»](https://video.mirtesen.ru/videos/personal/541944) — Ирина Шамолина,
