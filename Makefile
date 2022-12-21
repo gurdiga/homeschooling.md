@@ -29,8 +29,8 @@ post: bundler
 
 bundler: /usr/local/bin/bundle
 /usr/local/bin/bundle:
-	gem list bundler | grep '^bundler ' || gem install bundler
-	bundle check || bundle install
+	@gem list bundler | grep '^bundler ' || gem install bundler
+	@bundle check || bundle install
 
 edit:
 	code -n .
