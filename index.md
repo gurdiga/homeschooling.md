@@ -83,9 +83,9 @@ section.blurb h2 {
     <li>Înregistrați-vă ca membru în <a href="{% link pages/asociatia.md
     %}#aderarea-la-asociație">asociație</a>.</li>
 
-    <li>Alăturați-vă în grupurile de <a
-    href="https://www.facebook.com/groups/HomeschoolingMoldova/">pe Facebook</a>
-    și pe Viber.</li>
+    <li>Alăturați-vă în grupurile de
+    <a href="https://www.facebook.com/groups/HomeschoolingMoldova/">pe Facebook</a> și
+    <a href="https://invite.viber.com/?g2=AQBvshCU3BA6JUrirMsLU95p5lABQnK3RVEQX6k4tbMyKIApsymCL5gV%2F7KXCtoo">pe Viber</a>.</li>
 
     <li>Veniți la <a href="{% link pages/club.md %}">„Clubul Familiei”</a>
     pentru a pune întrebări și a discuta cu alți părinți.</li>
