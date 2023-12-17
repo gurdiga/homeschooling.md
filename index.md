@@ -44,8 +44,10 @@ section.blurb h2 {
 
   <p><dfn>Homeschooling</dfn> înseamnă școlarizare în sînul familiei, folosind
   mijloace moderne de educație, punînd accentul pe punctele forte și
-  particularitățile copilului.  Un element important în homeschooling este
-  faptul că se cultivă o relație foarte bună între părinte și copil.</p>
+  particularitățile copilului. Un element fundamental în homeschooling este
+  faptul că la baza procesului educațional stă relația foarte bună între
+  părinte și copil, și asta permite identificarea elementelor și abordărilor optime
+  pentru fiecare copil.</p>
 </section>
 
 <section class="blurb">
