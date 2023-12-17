@@ -53,7 +53,8 @@ section.blurb h2 {
 <section class="blurb">
   <h2>Homeschooling în Moldova? Da.</h2>
 
-  <p><a href="http://lex.justice.md/md/355156/" target="_blank">Codul
+
+  <p><a href="https://www.legis.md/cautare/getResults?doc_id=110112&lang=ro" target="_blank">Codul
   Educației</a> încă nu menționează nimic despre homeschooling. Dar rațiunea
   elementară ne spune că dacă nu facem rău nimănui, homeschoolingul nu este
   ilegal. Este o practică <a href="https://publications.europa.eu/s/kgMm"
