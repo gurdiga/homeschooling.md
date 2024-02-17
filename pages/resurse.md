@@ -86,8 +86,7 @@ fac, sau vor să facă homeschooling.
 * [How Children Fail (Classics in Child Development)](https://www.amazon.com/gp/product/0201484021)
   * На русском: «Причины детских неудач»
     \[[отзыв](https://www.livelib.ru/book/1000466175)
-    • [PDF gratuit]({% link assets/books/John-Holt-How-Children-Fail-Russian.pdf %})
-    ]
+    • [PDF gratuit]({% link assets/books/John-Holt-How-Children-Fail-Russian.pdf %})]
 * [Learning All The Time](https://www.goodreads.com/book/show/573005)
 * [Instead of Education](https://www.goodreads.com/book/show/573008)
 
@@ -109,20 +108,16 @@ fac, sau vor să facă homeschooling.
     \[[idea.ro](http://www.idea.ro/editura/ro/pentru-a-decolariza-societatea-d171.html)]
   * На русском: «Освобождение от школ»
     \[[online](https://eusi.ru/lib/illic_osvobogdenie/index.php)
-    • [PDF gratuit](https://bojidarivkov.files.wordpress.com/2012/11/illich_ivan-osvobojdenie_ot_schkol.pdf)
-    ]
+    • [PDF gratuit](https://bojidarivkov.files.wordpress.com/2012/11/illich_ivan-osvobojdenie_ot_schkol.pdf)]
 
 ### Durrell Gerald (Джеральд Даррелл)
 
 * [My Family and Other Animals](https://www.goodreads.com/book/show/48132)
   * În română: „Familia mea și alte animale”
-    \[ [litera.md](https://litera.md/familia-mea-si-alte-animale-384150) ]
+    \[[litera.md](https://litera.md/familia-mea-si-alte-animale-384150) ]
   * На русском: «Моя семья и другие звери»
-    \[
-    [online](http://loveread.ec/read_book.php?id=17007&p=1)
-    • [online](https://www.e-reading.club/book.php?book=18364)
-    ]
-
+    \[[online](http://loveread.ec/read_book.php?id=17007&p=1)
+    • [online](https://www.e-reading.club/book.php?book=18364)]
 ### Jan Hunt
 
 * [The Natural Child: Parenting from the Heart](https://www.goodreads.com/book/show/705046)
@@ -138,12 +133,10 @@ can Lead to a Lifetime of Success](https://www.goodreads.com/book/show/6285746)
 * [Hold On to Your Kids: Why Parents Need to Matter More Than
 Peers](https://www.goodreads.com/book/show/106744)
   * În română: „Cum sa ne pastram copiii aproape”
-    \[
-    [librarius](http://librarius.md/ro/book/cum-sa-ne-pastram-copiii-aproape-529768)
-    • [librarie.net](http://www.librarie.net/p/289760/)
-    ]
+    \[[librarius](http://librarius.md/ro/book/cum-sa-ne-pastram-copiii-aproape-529768)
+    • [librarie.net](http://www.librarie.net/p/289760/)]
   * На русском: «Не упускайте своих детей»
-    \[ [online](http://readli.net/ne-upuskayte-svoih-detey/) ]
+    \[[online](http://readli.net/ne-upuskayte-svoih-detey/) ]
 
 ### Alfie Kohn
 
@@ -152,22 +145,18 @@ Children and Parenting](https://www.goodreads.com/book/show/25489083)
 * [Punished by Rewards: The Trouble with Gold Stars, Incentive Plans, A's,
 Praise and Other Bribes](https://www.goodreads.com/book/show/541132)
   * În română: „Pedepsiți prin recompense”
-    \[
-    [review](http://www.totuldespremame.ro/copilul-tau/psihologie-si-comportament/pedepsit-de-recompense)
-    • [tdm](http://shop.totuldespremame.ro/produs/pedepsiti-prin-recompense/)
-    ]
+    \[[review](http://www.totuldespremame.ro/copilul-tau/psihologie-si-comportament/pedepsit-de-recompense)
+    • [tdm](http://shop.totuldespremame.ro/produs/pedepsiti-prin-recompense/)]
 
 
 * [Unconditional Parenting: Moving from Rewards and Punishments to Love and Reason](https://www.goodreads.com/book/show/111209)
   * În româna: „Parenting necondiționat”
     \[[review](http://unica.md/mama-si-copilul/dezvoltarea-copilului/un-psiholog-desfiinteaza-mitul-temei-pentru-acasa-de-ce-temele-fac-mai-mult-rau-decat-bine/)
     • [librarius](http://librarius.md/ro/book/parenting-neconditionat-538964)
-    • [libris](https://libris.md/carti/parenting-neconditionat-47106)
-    ]
+    • [libris](https://libris.md/carti/parenting-neconditionat-47106)]
   * На русском: «Безусловные родители»
     \[[online](https://yadi.sk/d/TqBPzTPLGgcPD)
-    • [PDF gratuit](http://metodich.ru/8192/index.html)
-    ]
+    • [PDF gratuit](http://metodich.ru/8192/index.html)]
 
 ### Pam Laricchia
 
@@ -182,8 +171,7 @@ GoodReads](https://www.goodreads.com/author/show/5807562.Pam_Laricchia).
 
 * [Big Book of Unschooling](https://www.goodreads.com/book/show/7202546)
   \[[online](http://sandradodd.com/)
-  • [Amazon](https://www.amazon.com/dp/0557181550/)
-  ]
+  • [Amazon](https://www.amazon.com/dp/0557181550/)]
 
 Alte cărți tematice de această autoare găsiți [pe pagina de la
 GoodReads](https://www.goodreads.com/author/show/869719.Sandra_Dodd).
@@ -195,19 +183,16 @@ GoodReads](https://www.goodreads.com/author/show/869719.Sandra_Dodd).
 ### A. S. Neill
 
 * [Freedom, Not License!](https://www.goodreads.com/book/show/2048282)
-  \[
-  [online](https://archive.org/details/FreedomNotLicence-A.S.Neill)
+  \[[online](https://archive.org/details/FreedomNotLicence-A.S.Neill)
   • [PDF gratuit](https://ia800205.us.archive.org/15/items/FreedomNotLicence-A.S.Neill/freedom-neill.pdf)
-  • [Kindle](https://archive.org/download/FreedomNotLicence-A.S.Neill/freedom-neill.mobi)
-  ]
+  • [Kindle](https://archive.org/download/FreedomNotLicence-A.S.Neill/freedom-neill.mobi)]
 
 ### Andrey Maksimov (Андрей Максимов)
 
 * «Дети как зеркало. Как подружиться с собственным ребенком, меняясь самому»
   \[[recenzie]({% link _posts/2018-07-28-recenzie-carte-дети-как-зеркало.md %})
   • [Labirint.ru: отзывы](https://www.labirint.ru/reviews/goods/544607/)
-  • [Librarius.md](http://librarius.md/ru/book/deti-kak-zerkalo-kak-podruzhitisya-s-sobstvennym-rebenkom-menyayasi-samomu-468424)
-  ]
+  • [Librarius.md](http://librarius.md/ru/book/deti-kak-zerkalo-kak-podruzhitisya-s-sobstvennym-rebenkom-menyayasi-samomu-468424)]
 
 [amaximov.ru](http://amaximov.ru/)
 • [Wikipedia](https://ru.wikipedia.org/wiki/Максимов,_Андрей_Маркович)
@@ -215,18 +200,14 @@ GoodReads](https://www.goodreads.com/author/show/869719.Sandra_Dodd).
 ### Teresa Graham Brett
 
 * [Parenting for Social Change](https://www.goodreads.com/book/show/10504971)
-    \[
-    [website](https://parentingforsocialchange.com/about-book-html/)
-    • [Facebook](https://www.facebook.com/parenting.for.social.change.book/)
-    ]
+    \[[website](https://parentingforsocialchange.com/about-book-html/)
+    • [Facebook](https://www.facebook.com/parenting.for.social.change.book/)]
 
 ### Ольга Юрковская
 
 * «Хоумскулинг. Образование для жизни (аудиокнига)»
-    \[
-    [download gratuit](https://drive.google.com/drive/folders/1NplTA0Vvwab65DNxtua5U_Hi3usr7vXc)
-    • [ЛитРес](https://www.litres.ru/olga-urkovskaya/houmskuling-obrazovanie-dlya-zhizni-28740774/)
-    ]
+    \[[download gratuit](https://drive.google.com/drive/folders/1NplTA0Vvwab65DNxtua5U_Hi3usr7vXc)
+    • [ЛитРес](https://www.litres.ru/olga-urkovskaya/houmskuling-obrazovanie-dlya-zhizni-28740774/)]
 
 ## Link-uri utile
 
