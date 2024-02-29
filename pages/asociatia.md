@@ -117,4 +117,17 @@ Acest demers se poate descărca [aici în format PDF](https://docs.google.com/do
   style="border:0"
 ></iframe>
 
+<br/>
+
+---
+
 Acest demers se poate descărca [aici în format PDF](https://docs.google.com/document/d/1m7HEs2tjAMi68776Fxj7bJN0x8GuYqNo/export?format=pdf).
+
+### Alte documente aferente proiectului de lege
+
+- [Nota informativă.docx](https://docs.google.com/document/d/e/2PACX-1vQUXjdeG4bSKVO-873aBPBMiHDY3Y9dyTKVPhHzoD52OyiLGjfXMA8_XQVaauOYgg/pub)
+- [Anexa 1: Instrucțiune Proiect privind organizarea învațământului.docx](https://docs.google.com/document/u/5/d/e/2PACX-1vTwWXhCv9ZabE0GdKuC_LM0-gPRFjwkUnzikjJAa-a8X0OChtKThjlpk8GDRR4RcQ/pub)
+- [Anexa 2: Învățământul în familie Marea Britanie.docx](https://docs.google.com/document/d/e/2PACX-1vRFy_Dkkd5k8pN1VuunZ0F0QOls5VSrQOFtu403U0nnymijC35KDEDsqBuhCejQRg/pub)
+- [Anexa 3: Învățământul în familie R. Italiana.docx](https://docs.google.com/document/d/e/2PACX-1vRntzd958TL09P6h_sgyPXj63E1IhB4KI5Lqw_PfxS240RyLSUa9O3CDx_U9uggxA/pub)
+- [Anexa 4: Învățământul în familie Ucraina.docx](https://docs.google.com/document/d/e/2PACX-1vRHhF0NsR9DnEV8gMlNSztKbCuXMVUjJBXpSblUV1x3jb-expeUgp0LOyApE0IMDA/pub)
+- [Anexa 5: Învățământul în familie Federația Rusă.docx](https://docs.google.com/document/d/e/2PACX-1vQDexnNHE89fqVc1ibX9krGY8DSCdC-50qOZtcqb4JgU-2s6iTz3MGkPUojtCpRug/pub)
