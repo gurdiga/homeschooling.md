@@ -7,7 +7,8 @@ build: ensure-post-author bundler
 ensure-post-author:
 	@find _posts/ -name '*.md' | xargs -I{} bash -c "grep -qP '^author: \p{L}+' {} || ( printf '\nNo author found for {}\n\n' && exit 1 )"
 
-pre-commit: build
+pc: pre-commit
+pre-commit: build audit
 
 test: $(SERVER_PID_FILE)
 	@wget --mirror --output-document=mirror --quiet http://$(SERVER_IP):$(SERVER_PORT) \
@@ -54,5 +55,18 @@ _sass/_fonts.scss:
 	grep -Po 'https://fonts.gstatic.com\S+.woff2' $@ | xargs wget --directory-prefix=assets/fonts/
 	/usr/local/opt/gnu-sed/libexec/gnubin/sed -i 's|https://fonts.gstatic.com/.*/|fonts/|' $@
 
+u: update
 update:
 	bundle update --all
+
+i: install
+install:
+	bundle install
+
+a: audit
+audit:
+	bundle exec bundle-audit check
+
+au: audit-update
+audit-update:
+	bundle exec bundle-audit update
