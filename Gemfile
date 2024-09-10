@@ -8,7 +8,7 @@ source "https://rubygems.org"
 #
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
-gem "jekyll", "3.9.0" # Check https://pages.github.com/versions/
+gem "jekyll", "3.10.0" # Check https://pages.github.com/versions/
 gem "kramdown-parser-gfm"
 gem "kramdown", ">= 2.3.0"
 
