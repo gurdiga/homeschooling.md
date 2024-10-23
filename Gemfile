@@ -12,6 +12,9 @@ gem "jekyll", "3.10.0" # Check https://pages.github.com/versions/
 gem "kramdown-parser-gfm"
 gem "kramdown", ">= 2.3.0"
 
+# HTTP Request Smuggling in ruby webrick
+gem "webrick", ">= 1.8.2"
+
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
 gem "minima", "~> 2.0"
 
