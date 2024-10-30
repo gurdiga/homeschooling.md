@@ -36,3 +36,6 @@ gem "wdm", "~> 0.1.0" if Gem.win_platform?
 
 gem 'jekyll-sitemap'
 gem "bundle-audit"
+
+# Updates
+gem "rexml", ">= 3.3.9"
