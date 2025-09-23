@@ -38,4 +38,4 @@ gem 'jekyll-sitemap'
 gem "bundle-audit"
 
 # Updates
-gem "rexml", ">= 3.3.9"
+gem "rexml", ">= 3.4.4"
